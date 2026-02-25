@@ -1,0 +1,1101 @@
+Accident_ID,Location,Severity,Weather_Condition,Number_of_Casualties,date_time,traffic_volume,weather_description,temp(K),rain_intensity_level,day_of_week,hour_of_day,State
+1,Koramangala,Moderate,Clear,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+2,Bandra,Moderate,Fog,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+3,Indiranagar,Minor,Clear,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+4,Connaught Place,Minor,Fog,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+5,Salt Lake City,Minor,Fog,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+6,Gariahat,Severe,Clear,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+7,Hinjewadi,Severe,Clear,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+8,Banjara Hills,Severe,Rain,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+9,Jubilee Hills,Severe,Rain,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+10,Anna Nagar,Severe,Clear,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+11,T. Nagar,Severe,Fog,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+12,Civil Lines,Minor,Fog,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Rajasthan
+13,Kalyani Nagar,Moderate,Fog,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+14,Vasant Kunj,Minor,Fog,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+15,Alwarpet,Moderate,Rain,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+16,Koramangala,Moderate,Fog,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+17,Bandra,Minor,Rain,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+18,Indiranagar,Minor,Snow,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+19,Connaught Place,Severe,Fog,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+20,Salt Lake City,Moderate,Snow,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+21,Gariahat,Moderate,Rain,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+22,Hinjewadi,Severe,Rain,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+23,Banjara Hills,Moderate,Fog,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+24,Jubilee Hills,Minor,Clear,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+25,Anna Nagar,Moderate,Fog,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+26,T. Nagar,Minor,Clear,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+27,Civil Lines,Severe,Rain,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Rajasthan
+28,Kalyani Nagar,Severe,Rain,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+29,Vasant Kunj,Minor,Snow,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+30,Alwarpet,Severe,Rain,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+31,Koramangala,Moderate,Fog,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+32,Bandra,Severe,Fog,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+33,Indiranagar,Moderate,Fog,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+34,Connaught Place,Minor,Snow,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+35,Salt Lake City,Severe,Clear,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+36,Gariahat,Moderate,Fog,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+37,Hinjewadi,Minor,Fog,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+38,Banjara Hills,Severe,Fog,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+39,Jubilee Hills,Minor,Clear,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+40,Anna Nagar,Severe,Rain,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+41,T. Nagar,Minor,Fog,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+42,Civil Lines,Moderate,Clear,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Rajasthan
+43,Kalyani Nagar,Severe,Clear,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+44,Vasant Kunj,Minor,Rain,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+45,Alwarpet,Minor,Rain,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+46,Koramangala,Moderate,Rain,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+47,Bandra,Moderate,Rain,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+48,Indiranagar,Severe,Clear,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+49,Connaught Place,Severe,Rain,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+50,Salt Lake City,Severe,Fog,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+51,Gariahat,Moderate,Clear,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+52,Hinjewadi,Minor,Clear,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+53,Banjara Hills,Severe,Rain,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+54,Jubilee Hills,Moderate,Clear,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+55,Anna Nagar,Severe,Rain,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+56,T. Nagar,Severe,Snow,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+57,Civil Lines,Severe,Clear,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Rajasthan
+58,Kalyani Nagar,Moderate,Fog,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+59,Vasant Kunj,Severe,Snow,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+60,Alwarpet,Minor,Fog,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+61,Koramangala,Moderate,Fog,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+62,Bandra,Moderate,Snow,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+63,Indiranagar,Minor,Snow,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+64,Connaught Place,Severe,Rain,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+65,Salt Lake City,Minor,Fog,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+66,Gariahat,Moderate,Clear,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+67,Hinjewadi,Severe,Clear,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+68,Banjara Hills,Minor,Fog,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+69,Jubilee Hills,Severe,Snow,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+70,Anna Nagar,Severe,Clear,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+71,T. Nagar,Moderate,Snow,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+72,Civil Lines,Severe,Rain,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Rajasthan
+73,Kalyani Nagar,Moderate,Fog,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+74,Vasant Kunj,Minor,Fog,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+75,Alwarpet,Moderate,Clear,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+76,Koramangala,Minor,Rain,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+77,Bandra,Severe,Clear,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+78,Indiranagar,Severe,Clear,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+79,Connaught Place,Minor,Snow,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+80,Salt Lake City,Moderate,Snow,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+81,Gariahat,Severe,Rain,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+82,Hinjewadi,Moderate,Rain,5,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+83,Banjara Hills,Moderate,Fog,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+84,Jubilee Hills,Moderate,Snow,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+85,Anna Nagar,Moderate,Clear,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+86,T. Nagar,Minor,Clear,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+87,Civil Lines,Minor,Fog,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Rajasthan
+88,Kalyani Nagar,Severe,Snow,7,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+89,Vasant Kunj,Severe,Fog,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+90,Alwarpet,Moderate,Clear,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+91,Koramangala,Moderate,Rain,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+92,Bandra,Moderate,Clear,4,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+93,Indiranagar,Moderate,Clear,2,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Karnataka
+94,Connaught Place,Minor,Snow,8,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Delhi
+95,Salt Lake City,Moderate,Fog,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+96,Gariahat,Severe,Clear,3,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,West Bengal
+97,Hinjewadi,Moderate,Rain,6,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Maharashtra
+98,Banjara Hills,Moderate,Fog,9,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+99,Jubilee Hills,Severe,Fog,1,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Telangana
+100,Anna Nagar,Minor,Rain,0,08-02-2023 08:00,2526,light rain,295.2,2,Sunday,11,Tamil Nadu
+101,T. Nagar,Moderate,Rain,1,01-01-2023 00:00,3374,heavy rain,272.3,3,Sunday,0,Tamil Nadu
+102,Civil Lines,Minor,Fog,2,01-01-2023 01:00,3707,light rain,281,1,Sunday,1,Rajasthan
+103,Kalyani Nagar,Moderate,Rain,3,01-01-2023 02:00,1060,heavy rain,288.9,3,Sunday,2,Maharashtra
+104,Vasant Kunj,Severe,Clear,10,01-01-2023 03:00,1494,light rain,297.7,1,Sunday,3,Delhi
+105,Alwarpet,Minor,Rain,10,01-01-2023 04:00,1330,drizzle rain,281.2,2,Sunday,4,Tamil Nadu
+106,Koramangala,Minor,Rain,21,01-01-2023 05:00,1295,light rain,291.9,1,Sunday,5,Karnataka
+107,Bandra,Minor,Rain,32,01-01-2023 06:00,3972,light rain,301,1,Sunday,6,Maharashtra
+108,Indiranagar,Severe,Rain,0,01-01-2023 07:00,3292,thunderstorm with rain,291.6,4,Sunday,7,Karnataka
+109,Connaught Place,Moderate,Rain,1,01-01-2023 08:00,1838,heavy rain,278.2,3,Sunday,8,Delhi
+110,Salt Lake City,Severe,Fog,2,01-01-2023 09:00,2369,light rain,270.9,1,Sunday,9,West Bengal
+111,Gariahat,Minor,Fog,4,01-01-2023 10:00,666,light rain,300.5,1,Sunday,10,West Bengal
+112,Hinjewadi,Moderate,Rain,21,01-01-2023 11:00,1438,thunderstorm with rain,270.7,4,Sunday,11,Maharashtra
+113,Banjara Hills,Minor,Rain,5,01-01-2023 12:00,530,thunderstorm with rain,300.6,4,Sunday,12,Telangana
+114,Jubilee Hills,Moderate,Fog,6,01-01-2023 13:00,1682,heavy rain,288.5,3,Sunday,13,Telangana
+115,Anna Nagar,Severe,Rain,0,01-01-2023 14:00,2335,thunderstorm with rain,302.9,4,Sunday,14,Tamil Nadu
+116,T. Nagar,Minor,Clear,1,01-01-2023 15:00,3644,drizzle rain,298,2,Sunday,15,Tamil Nadu
+117,Civil Lines,Minor,Rain,2,01-01-2023 16:00,3371,thunderstorm with rain,304.9,4,Sunday,16,Rajasthan
+118,Kalyani Nagar,Minor,Rain,4,01-01-2023 17:00,3119,drizzle rain,282.3,2,Sunday,17,Maharashtra
+119,Vasant Kunj,Severe,Rain,10,01-01-2023 18:00,3935,heavy rain,296.9,3,Sunday,18,Delhi
+120,Alwarpet,Moderate,Rain,21,01-01-2023 19:00,330,heavy rain,284.1,3,Sunday,19,Tamil Nadu
+121,Koramangala,Severe,Rain,5,01-01-2023 20:00,1885,heavy rain,286.8,3,Sunday,20,Karnataka
+122,Bandra,Minor,Fog,6,01-01-2023 21:00,3580,heavy rain,292,3,Sunday,21,Maharashtra
+123,Indiranagar,Moderate,Fog,3,01-01-2023 22:00,969,heavy rain,300.6,3,Sunday,22,Karnataka
+124,Connaught Place,Minor,Rain,8,01-01-2023 23:00,2591,drizzle rain,304.4,2,Sunday,23,Delhi
+125,Salt Lake City,Moderate,Rain,9,02-01-2023 00:00,1715,drizzle rain,296.9,2,Monday,0,West Bengal
+126,Gariahat,Severe,Fog,21,02-01-2023 01:00,3685,heavy rain,284.6,3,Monday,1,West Bengal
+127,Hinjewadi,Minor,Rain,11,02-01-2023 02:00,3053,thunderstorm with rain,284.7,4,Monday,2,Maharashtra
+128,Banjara Hills,Minor,Clear,10,02-01-2023 03:00,2633,light rain,295.8,1,Monday,3,Telangana
+129,Jubilee Hills,Minor,Rain,10,02-01-2023 04:00,1415,heavy rain,278.4,3,Monday,4,Telangana
+130,Anna Nagar,Severe,Rain,10,02-01-2023 05:00,1155,thunderstorm with rain,273.9,4,Monday,5,Tamil Nadu
+131,T. Nagar,Moderate,Rain,21,02-01-2023 06:00,2524,light rain,282.4,1,Monday,6,Tamil Nadu
+132,Civil Lines,Severe,Rain,21,02-01-2023 07:00,1384,heavy rain,280.1,3,Monday,7,Rajasthan
+133,Kalyani Nagar,Minor,Rain,3,02-01-2023 08:00,659,heavy rain,280.4,3,Monday,8,Maharashtra
+134,Vasant Kunj,Moderate,Fog,5,02-01-2023 09:00,3585,drizzle rain,278.2,2,Monday,9,Delhi
+135,Alwarpet,Minor,Fog,6,02-01-2023 10:00,221,light rain,271.5,1,Monday,10,Tamil Nadu
+136,Koramangala,Moderate,Rain,2,02-01-2023 11:00,2500,light rain,270.6,1,Monday,11,Karnataka
+137,Bandra,Severe,Rain,7,02-01-2023 12:00,947,thunderstorm with rain,304.6,4,Monday,12,Maharashtra
+138,Indiranagar,Minor,Fog,9,02-01-2023 13:00,3104,drizzle rain,285,2,Monday,13,Karnataka
+139,Connaught Place,Minor,Rain,8,02-01-2023 14:00,3832,drizzle rain,283.5,2,Monday,14,Delhi
+140,Salt Lake City,Minor,Clear,0,02-01-2023 15:00,674,drizzle rain,293.8,2,Monday,15,West Bengal
+141,Gariahat,Severe,Rain,0,02-01-2023 16:00,1282,drizzle rain,277.6,2,Monday,16,West Bengal
+142,Hinjewadi,Moderate,Rain,1,02-01-2023 17:00,2758,light rain,303.2,1,Monday,17,Maharashtra
+143,Banjara Hills,Severe,Rain,2,02-01-2023 18:00,3953,light rain,297.5,1,Monday,18,Telangana
+144,Jubilee Hills,Minor,Rain,4,02-01-2023 19:00,2247,heavy rain,273.1,3,Monday,19,Telangana
+145,Anna Nagar,Moderate,Rain,10,02-01-2023 20:00,3747,heavy rain,284.6,3,Monday,20,Tamil Nadu
+146,T. Nagar,Minor,Fog,21,02-01-2023 21:00,2947,drizzle rain,300.8,2,Monday,21,Tamil Nadu
+147,Civil Lines,Moderate,Fog,5,02-01-2023 22:00,1175,drizzle rain,303.1,2,Monday,22,Rajasthan
+148,Kalyani Nagar,Severe,Rain,6,02-01-2023 23:00,2006,drizzle rain,286.4,2,Monday,23,Maharashtra
+149,Vasant Kunj,Minor,Rain,3,03-01-2023 00:00,389,heavy rain,291.5,3,Tuesday,0,Delhi
+150,Alwarpet,Minor,Fog,8,03-01-2023 01:00,3205,thunderstorm with rain,275.8,4,Tuesday,1,Tamil Nadu
+151,Koramangala,Minor,Rain,9,03-01-2023 02:00,2934,thunderstorm with rain,304.7,4,Tuesday,2,Karnataka
+152,Bandra,Severe,Clear,21,03-01-2023 03:00,3205,heavy rain,278.1,3,Tuesday,3,Maharashtra
+153,Indiranagar,Moderate,Rain,11,03-01-2023 04:00,762,heavy rain,303,3,Tuesday,4,Karnataka
+154,Connaught Place,Severe,Rain,10,03-01-2023 05:00,2099,heavy rain,292.7,3,Tuesday,5,Delhi
+155,Salt Lake City,Minor,Rain,10,03-01-2023 06:00,3838,heavy rain,291.3,3,Tuesday,6,West Bengal
+156,Gariahat,Moderate,Rain,10,03-01-2023 07:00,1467,heavy rain,287.9,3,Tuesday,7,West Bengal
+157,Hinjewadi,Minor,Rain,21,03-01-2023 08:00,3079,heavy rain,278.1,3,Tuesday,8,Maharashtra
+158,Banjara Hills,Moderate,Fog,21,03-01-2023 09:00,1728,drizzle rain,276.2,2,Tuesday,9,Telangana
+159,Jubilee Hills,Severe,Fog,3,03-01-2023 10:00,3402,drizzle rain,277.7,2,Tuesday,10,Telangana
+160,Anna Nagar,Minor,Rain,5,03-01-2023 11:00,3756,drizzle rain,276.5,2,Tuesday,11,Tamil Nadu
+161,T. Nagar,Minor,Rain,6,03-01-2023 12:00,846,drizzle rain,297.3,2,Tuesday,12,Tamil Nadu
+162,Civil Lines,Minor,Fog,2,03-01-2023 13:00,2268,heavy rain,282.3,3,Tuesday,13,Rajasthan
+163,Kalyani Nagar,Severe,Rain,7,03-01-2023 14:00,3088,thunderstorm with rain,272,4,Tuesday,14,Maharashtra
+164,Vasant Kunj,Moderate,Clear,9,03-01-2023 15:00,2414,light rain,303.9,1,Tuesday,15,Delhi
+165,Alwarpet,Severe,Rain,8,03-01-2023 16:00,1497,heavy rain,300.9,3,Tuesday,16,Tamil Nadu
+166,Koramangala,Minor,Rain,0,03-01-2023 17:00,2635,light rain,302.5,1,Tuesday,17,Karnataka
+167,Bandra,Moderate,Rain,0,03-01-2023 18:00,800,thunderstorm with rain,304.8,4,Tuesday,18,Maharashtra
+168,Indiranagar,Minor,Rain,1,03-01-2023 19:00,2563,drizzle rain,276.1,2,Tuesday,19,Karnataka
+169,Connaught Place,Moderate,Rain,2,03-01-2023 20:00,2261,thunderstorm with rain,283.9,4,Tuesday,20,Delhi
+170,Salt Lake City,Severe,Fog,4,03-01-2023 21:00,441,heavy rain,296.5,3,Tuesday,21,West Bengal
+171,Gariahat,Minor,Fog,10,03-01-2023 22:00,2241,drizzle rain,294.4,2,Tuesday,22,West Bengal
+172,Hinjewadi,Minor,Rain,21,03-01-2023 23:00,3024,heavy rain,275.4,3,Tuesday,23,Maharashtra
+173,Banjara Hills,Minor,Rain,5,04-01-2023 00:00,3617,drizzle rain,298.6,2,Wednesday,0,Telangana
+174,Jubilee Hills,Severe,Fog,6,04-01-2023 01:00,2812,light rain,277.9,1,Wednesday,1,Telangana
+175,Anna Nagar,Moderate,Rain,3,04-01-2023 02:00,3145,light rain,277.8,1,Wednesday,2,Tamil Nadu
+176,T. Nagar,Severe,Clear,8,04-01-2023 03:00,1563,light rain,288.8,1,Wednesday,3,Tamil Nadu
+177,Civil Lines,Minor,Rain,9,04-01-2023 04:00,2339,thunderstorm with rain,290.8,4,Wednesday,4,Rajasthan
+178,Kalyani Nagar,Moderate,Rain,21,04-01-2023 05:00,1590,heavy rain,290.3,3,Wednesday,5,Maharashtra
+179,Vasant Kunj,Minor,Rain,11,04-01-2023 06:00,3203,thunderstorm with rain,273.2,4,Wednesday,6,Delhi
+180,Alwarpet,Moderate,Rain,10,04-01-2023 07:00,1678,light rain,300.7,1,Wednesday,7,Tamil Nadu
+181,Koramangala,Severe,Rain,10,04-01-2023 08:00,3699,heavy rain,279.3,3,Wednesday,8,Karnataka
+182,Bandra,Minor,Fog,10,04-01-2023 09:00,2756,light rain,274.5,1,Wednesday,9,Maharashtra
+183,Indiranagar,Minor,Fog,21,04-01-2023 10:00,975,thunderstorm with rain,301.1,4,Wednesday,10,Karnataka
+184,Connaught Place,Minor,Rain,21,04-01-2023 11:00,234,thunderstorm with rain,303.4,4,Wednesday,11,Delhi
+185,Salt Lake City,Severe,Rain,3,04-01-2023 12:00,2453,thunderstorm with rain,300.2,4,Wednesday,12,West Bengal
+186,Gariahat,Moderate,Fog,5,04-01-2023 13:00,3352,light rain,298.3,1,Wednesday,13,West Bengal
+187,Hinjewadi,Severe,Rain,6,04-01-2023 14:00,2155,heavy rain,292.9,3,Wednesday,14,Maharashtra
+188,Banjara Hills,Minor,Clear,2,04-01-2023 15:00,1785,heavy rain,289.3,3,Wednesday,15,Telangana
+189,Jubilee Hills,Moderate,Rain,7,04-01-2023 16:00,3659,light rain,273,1,Wednesday,16,Telangana
+190,Anna Nagar,Minor,Rain,9,04-01-2023 17:00,3273,heavy rain,284.3,3,Wednesday,17,Tamil Nadu
+191,T. Nagar,Moderate,Rain,8,04-01-2023 18:00,1221,light rain,283,1,Wednesday,18,Tamil Nadu
+192,Civil Lines,Severe,Rain,0,04-01-2023 19:00,3661,heavy rain,279.1,3,Wednesday,19,Rajasthan
+193,Kalyani Nagar,Minor,Rain,0,04-01-2023 20:00,2813,drizzle rain,295.3,2,Wednesday,20,Maharashtra
+194,Vasant Kunj,Minor,Fog,1,04-01-2023 21:00,1329,drizzle rain,287.4,2,Wednesday,21,Delhi
+195,Alwarpet,Minor,Fog,2,04-01-2023 22:00,1700,thunderstorm with rain,272.8,4,Wednesday,22,Tamil Nadu
+196,Koramangala,Severe,Rain,4,04-01-2023 23:00,902,drizzle rain,277.7,2,Wednesday,23,Karnataka
+197,Bandra,Moderate,Rain,10,05-01-2023 00:00,2649,drizzle rain,293.9,2,Thursday,0,Maharashtra
+198,Indiranagar,Severe,Fog,21,05-01-2023 01:00,2977,drizzle rain,272.7,2,Thursday,1,Karnataka
+199,Connaught Place,Minor,Rain,5,05-01-2023 02:00,1779,light rain,299.8,1,Thursday,2,Delhi
+200,Salt Lake City,Moderate,Clear,6,05-01-2023 03:00,361,drizzle rain,287.3,2,Thursday,3,West Bengal
+201,Gariahat,Minor,Rain,3,05-01-2023 04:00,401,drizzle rain,286.8,2,Thursday,4,West Bengal
+202,Hinjewadi,Moderate,Rain,8,05-01-2023 05:00,2181,thunderstorm with rain,290.7,4,Thursday,5,Maharashtra
+203,Banjara Hills,Severe,Rain,9,05-01-2023 06:00,1195,drizzle rain,298.9,2,Thursday,6,Telangana
+204,Jubilee Hills,Minor,Rain,21,05-01-2023 07:00,2517,drizzle rain,282.2,2,Thursday,7,Telangana
+205,Anna Nagar,Minor,Rain,11,05-01-2023 08:00,1015,heavy rain,293.7,3,Thursday,8,Tamil Nadu
+206,T. Nagar,Minor,Fog,10,05-01-2023 09:00,3542,thunderstorm with rain,289.8,4,Thursday,9,Tamil Nadu
+207,Civil Lines,Severe,Fog,10,05-01-2023 10:00,655,thunderstorm with rain,279.3,4,Thursday,10,Rajasthan
+208,Kalyani Nagar,Moderate,Rain,10,05-01-2023 11:00,3733,thunderstorm with rain,300.8,4,Thursday,11,Maharashtra
+209,Vasant Kunj,Severe,Rain,21,05-01-2023 12:00,3998,thunderstorm with rain,297.9,4,Thursday,12,Delhi
+210,Alwarpet,Minor,Fog,21,05-01-2023 13:00,1475,thunderstorm with rain,293,4,Thursday,13,Tamil Nadu
+211,Koramangala,Moderate,Rain,3,05-01-2023 14:00,1216,thunderstorm with rain,299.8,4,Thursday,14,Karnataka
+212,Bandra,Minor,Clear,5,05-01-2023 15:00,3973,light rain,300.4,1,Thursday,15,Maharashtra
+213,Indiranagar,Moderate,Rain,6,05-01-2023 16:00,2543,drizzle rain,294.8,2,Thursday,16,Karnataka
+214,Connaught Place,Severe,Rain,2,05-01-2023 17:00,3996,thunderstorm with rain,299.3,4,Thursday,17,Delhi
+215,Salt Lake City,Minor,Rain,7,05-01-2023 18:00,2967,drizzle rain,294.4,2,Thursday,18,West Bengal
+216,Gariahat,Minor,Rain,9,05-01-2023 19:00,537,drizzle rain,293.8,2,Thursday,19,West Bengal
+217,Hinjewadi,Minor,Rain,8,05-01-2023 20:00,1078,light rain,291.7,1,Thursday,20,Maharashtra
+218,Banjara Hills,Severe,Fog,0,05-01-2023 21:00,1276,thunderstorm with rain,296.3,4,Thursday,21,Telangana
+219,Jubilee Hills,Moderate,Fog,0,05-01-2023 22:00,991,heavy rain,275.6,3,Thursday,22,Telangana
+220,Anna Nagar,Severe,Rain,1,05-01-2023 23:00,2464,light rain,300.8,1,Thursday,23,Tamil Nadu
+221,T. Nagar,Minor,Rain,2,06-01-2023 00:00,963,heavy rain,300.5,3,Friday,0,Tamil Nadu
+222,Civil Lines,Moderate,Fog,4,06-01-2023 01:00,2435,drizzle rain,271,2,Friday,1,Rajasthan
+223,Kalyani Nagar,Minor,Rain,10,06-01-2023 02:00,579,drizzle rain,298.9,2,Friday,2,Maharashtra
+224,Vasant Kunj,Moderate,Clear,21,06-01-2023 03:00,692,light rain,274.5,1,Friday,3,Delhi
+225,Alwarpet,Severe,Rain,5,06-01-2023 04:00,3312,light rain,281.7,1,Friday,4,Tamil Nadu
+226,Koramangala,Minor,Rain,6,06-01-2023 05:00,1380,heavy rain,296,3,Friday,5,Karnataka
+227,Bandra,Minor,Rain,3,06-01-2023 06:00,2262,thunderstorm with rain,275.6,4,Friday,6,Maharashtra
+228,Indiranagar,Minor,Rain,8,06-01-2023 07:00,264,heavy rain,298.6,3,Friday,7,Karnataka
+229,Connaught Place,Severe,Rain,9,06-01-2023 08:00,2768,light rain,299.1,1,Friday,8,Delhi
+230,Salt Lake City,Moderate,Fog,21,06-01-2023 09:00,1567,heavy rain,287.8,3,Friday,9,West Bengal
+231,Gariahat,Severe,Fog,11,06-01-2023 10:00,1352,light rain,270.2,1,Friday,10,West Bengal
+232,Hinjewadi,Minor,Rain,10,06-01-2023 11:00,2227,heavy rain,280,3,Friday,11,Maharashtra
+233,Banjara Hills,Moderate,Rain,10,06-01-2023 12:00,2895,light rain,291.6,1,Friday,12,Telangana
+234,Jubilee Hills,Minor,Fog,10,06-01-2023 13:00,1695,light rain,304.3,1,Friday,13,Telangana
+235,Anna Nagar,Moderate,Rain,21,06-01-2023 14:00,3334,light rain,292.1,1,Friday,14,Tamil Nadu
+236,T. Nagar,Severe,Clear,21,06-01-2023 15:00,1362,thunderstorm with rain,279.1,4,Friday,15,Tamil Nadu
+237,Civil Lines,Minor,Rain,3,06-01-2023 16:00,1722,heavy rain,292.2,3,Friday,16,Rajasthan
+238,Kalyani Nagar,Minor,Rain,5,06-01-2023 17:00,2840,heavy rain,288.9,3,Friday,17,Maharashtra
+239,Vasant Kunj,Minor,Rain,6,06-01-2023 18:00,591,heavy rain,297.3,3,Friday,18,Delhi
+240,Alwarpet,Severe,Rain,2,06-01-2023 19:00,1898,light rain,273.7,1,Friday,19,Tamil Nadu
+241,Koramangala,Moderate,Rain,7,06-01-2023 20:00,618,heavy rain,296.6,3,Friday,20,Karnataka
+242,Bandra,Severe,Fog,9,06-01-2023 21:00,2536,heavy rain,288.9,3,Friday,21,Maharashtra
+243,Indiranagar,Minor,Fog,8,06-01-2023 22:00,578,light rain,303.7,1,Friday,22,Karnataka
+244,Connaught Place,Moderate,Rain,0,06-01-2023 23:00,1996,drizzle rain,282,2,Friday,23,Delhi
+245,Salt Lake City,Minor,Rain,0,07-01-2023 00:00,3761,light rain,292.1,1,Saturday,0,West Bengal
+246,Gariahat,Moderate,Fog,1,07-01-2023 01:00,2478,heavy rain,302.6,3,Saturday,1,West Bengal
+247,Hinjewadi,Severe,Rain,2,07-01-2023 02:00,3265,light rain,273.6,1,Saturday,2,Maharashtra
+248,Banjara Hills,Minor,Clear,4,07-01-2023 03:00,2288,drizzle rain,302.8,2,Saturday,3,Telangana
+249,Jubilee Hills,Minor,Rain,10,07-01-2023 04:00,3299,light rain,294.1,1,Saturday,4,Telangana
+250,Anna Nagar,Minor,Rain,21,07-01-2023 05:00,2382,heavy rain,272.4,3,Saturday,5,Tamil Nadu
+251,T. Nagar,Severe,Rain,5,07-01-2023 06:00,400,drizzle rain,280.5,2,Saturday,6,Tamil Nadu
+252,Civil Lines,Moderate,Rain,6,07-01-2023 07:00,2063,thunderstorm with rain,294.8,4,Saturday,7,Rajasthan
+253,Kalyani Nagar,Severe,Rain,3,07-01-2023 08:00,979,heavy rain,272.4,3,Saturday,8,Maharashtra
+254,Vasant Kunj,Minor,Fog,8,07-01-2023 09:00,3177,drizzle rain,290.4,2,Saturday,9,Delhi
+255,Alwarpet,Moderate,Fog,9,07-01-2023 10:00,3304,drizzle rain,282.1,2,Saturday,10,Tamil Nadu
+256,Koramangala,Minor,Rain,21,07-01-2023 11:00,3319,thunderstorm with rain,291.7,4,Saturday,11,Karnataka
+257,Bandra,Moderate,Rain,11,07-01-2023 12:00,702,light rain,271.6,1,Saturday,12,Maharashtra
+258,Indiranagar,Severe,Fog,10,07-01-2023 13:00,2654,light rain,300.5,1,Saturday,13,Karnataka
+259,Connaught Place,Minor,Rain,10,07-01-2023 14:00,3845,heavy rain,304.1,3,Saturday,14,Delhi
+260,Salt Lake City,Minor,Clear,10,07-01-2023 15:00,1951,thunderstorm with rain,303.9,4,Saturday,15,West Bengal
+261,Gariahat,Minor,Rain,21,07-01-2023 16:00,1004,light rain,296.2,1,Saturday,16,West Bengal
+262,Hinjewadi,Severe,Rain,21,07-01-2023 17:00,2346,thunderstorm with rain,274.6,4,Saturday,17,Maharashtra
+263,Banjara Hills,Moderate,Rain,3,07-01-2023 18:00,2931,light rain,296.5,1,Saturday,18,Telangana
+264,Jubilee Hills,Severe,Rain,5,07-01-2023 19:00,2095,drizzle rain,270.9,2,Saturday,19,Telangana
+265,Anna Nagar,Minor,Rain,6,07-01-2023 20:00,2973,light rain,270.8,1,Saturday,20,Tamil Nadu
+266,T. Nagar,Moderate,Fog,2,07-01-2023 21:00,1770,thunderstorm with rain,281.3,4,Saturday,21,Tamil Nadu
+267,Civil Lines,Minor,Fog,7,07-01-2023 22:00,1160,drizzle rain,287.1,2,Saturday,22,Rajasthan
+268,Kalyani Nagar,Moderate,Rain,9,07-01-2023 23:00,2860,drizzle rain,297,2,Saturday,23,Maharashtra
+269,Vasant Kunj,Severe,Rain,8,08-01-2023 00:00,1685,drizzle rain,293.9,2,Sunday,0,Delhi
+270,Alwarpet,Minor,Fog,0,08-01-2023 01:00,2890,thunderstorm with rain,285.6,4,Sunday,1,Tamil Nadu
+271,Koramangala,Minor,Rain,0,08-01-2023 02:00,1228,heavy rain,279.6,3,Sunday,2,Karnataka
+272,Bandra,Minor,Clear,1,08-01-2023 03:00,3489,heavy rain,304.9,3,Sunday,3,Maharashtra
+273,Indiranagar,Severe,Rain,2,08-01-2023 04:00,702,heavy rain,284.9,3,Sunday,4,Karnataka
+274,Connaught Place,Moderate,Rain,4,08-01-2023 05:00,3014,thunderstorm with rain,285.8,4,Sunday,5,Delhi
+275,Salt Lake City,Severe,Rain,10,08-01-2023 06:00,597,drizzle rain,275.7,2,Sunday,6,West Bengal
+276,Gariahat,Minor,Rain,21,08-01-2023 07:00,1070,heavy rain,297.8,3,Sunday,7,West Bengal
+277,Hinjewadi,Moderate,Rain,5,08-01-2023 08:00,3042,thunderstorm with rain,294.3,4,Sunday,8,Maharashtra
+278,Banjara Hills,Minor,Fog,6,08-01-2023 09:00,592,heavy rain,277.7,3,Sunday,9,Telangana
+279,Jubilee Hills,Moderate,Fog,3,08-01-2023 10:00,406,light rain,272.9,1,Sunday,10,Telangana
+280,Anna Nagar,Severe,Rain,8,08-01-2023 11:00,1238,heavy rain,293.8,3,Sunday,11,Tamil Nadu
+281,T. Nagar,Minor,Rain,9,08-01-2023 12:00,2081,heavy rain,292.9,3,Sunday,12,Tamil Nadu
+282,Civil Lines,Minor,Fog,21,08-01-2023 13:00,3825,drizzle rain,279.6,2,Sunday,13,Rajasthan
+283,Kalyani Nagar,Minor,Rain,11,08-01-2023 14:00,3139,thunderstorm with rain,303.3,4,Sunday,14,Maharashtra
+284,Vasant Kunj,Severe,Clear,10,08-01-2023 15:00,1684,drizzle rain,275.3,2,Sunday,15,Delhi
+285,Alwarpet,Moderate,Rain,10,08-01-2023 16:00,3962,drizzle rain,285.1,2,Sunday,16,Tamil Nadu
+286,Koramangala,Severe,Rain,10,08-01-2023 17:00,3846,drizzle rain,303,2,Sunday,17,Karnataka
+287,Bandra,Minor,Rain,21,08-01-2023 18:00,1063,drizzle rain,284.7,2,Sunday,18,Maharashtra
+288,Indiranagar,Moderate,Rain,21,08-01-2023 19:00,2990,drizzle rain,292.3,2,Sunday,19,Karnataka
+289,Connaught Place,Minor,Rain,3,08-01-2023 20:00,3512,heavy rain,283.9,3,Sunday,20,Delhi
+290,Salt Lake City,Moderate,Fog,5,08-01-2023 21:00,763,drizzle rain,279.6,2,Sunday,21,West Bengal
+291,Gariahat,Severe,Fog,6,08-01-2023 22:00,1220,drizzle rain,304.4,2,Sunday,22,West Bengal
+292,Hinjewadi,Minor,Rain,2,08-01-2023 23:00,295,thunderstorm with rain,284.3,4,Sunday,23,Maharashtra
+293,Banjara Hills,Minor,Rain,7,09-01-2023 00:00,2123,light rain,301.3,1,Monday,0,Telangana
+294,Jubilee Hills,Minor,Fog,9,09-01-2023 01:00,1957,heavy rain,278,3,Monday,1,Telangana
+295,Anna Nagar,Severe,Rain,8,09-01-2023 02:00,2732,heavy rain,277.5,3,Monday,2,Tamil Nadu
+296,T. Nagar,Moderate,Clear,0,09-01-2023 03:00,3678,heavy rain,271.1,3,Monday,3,Tamil Nadu
+297,Civil Lines,Severe,Rain,1,09-01-2023 04:00,2478,drizzle rain,292.8,2,Monday,4,Rajasthan
+298,Kalyani Nagar,Minor,Rain,2,09-01-2023 05:00,2996,drizzle rain,282.9,2,Monday,5,Maharashtra
+299,Vasant Kunj,Moderate,Rain,4,09-01-2023 06:00,1878,drizzle rain,300.3,2,Monday,6,Delhi
+300,Alwarpet,Minor,Rain,10,09-01-2023 07:00,3442,thunderstorm with rain,286.6,4,Monday,7,Tamil Nadu
+301,Koramangala,Moderate,Rain,21,09-01-2023 08:00,740,light rain,303.9,1,Monday,8,Karnataka
+302,Bandra,Severe,Fog,5,09-01-2023 09:00,1259,drizzle rain,276.5,2,Monday,9,Maharashtra
+303,Indiranagar,Minor,Fog,6,09-01-2023 10:00,2772,light rain,300.4,1,Monday,10,Karnataka
+304,Connaught Place,Minor,Rain,3,09-01-2023 11:00,1383,thunderstorm with rain,297.2,4,Monday,11,Delhi
+305,Salt Lake City,Minor,Rain,8,09-01-2023 12:00,1922,heavy rain,297,3,Monday,12,West Bengal
+306,Gariahat,Severe,Fog,9,09-01-2023 13:00,3514,drizzle rain,299.6,2,Monday,13,West Bengal
+307,Hinjewadi,Moderate,Rain,21,09-01-2023 14:00,3357,light rain,296.6,1,Monday,14,Maharashtra
+308,Banjara Hills,Severe,Clear,11,09-01-2023 15:00,2019,light rain,291.9,1,Monday,15,Telangana
+309,Jubilee Hills,Minor,Rain,10,09-01-2023 16:00,2825,drizzle rain,274.6,2,Monday,16,Telangana
+310,Anna Nagar,Moderate,Rain,10,09-01-2023 17:00,2929,heavy rain,271.1,3,Monday,17,Tamil Nadu
+311,T. Nagar,Minor,Rain,10,09-01-2023 18:00,2804,heavy rain,302.2,3,Monday,18,Tamil Nadu
+312,Civil Lines,Moderate,Rain,21,09-01-2023 19:00,1797,heavy rain,291.6,3,Monday,19,Rajasthan
+313,Kalyani Nagar,Severe,Rain,21,09-01-2023 20:00,3260,thunderstorm with rain,297.9,4,Monday,20,Maharashtra
+314,Vasant Kunj,Minor,Fog,3,09-01-2023 21:00,2893,light rain,286.9,1,Monday,21,Delhi
+315,Alwarpet,Minor,Fog,5,09-01-2023 22:00,995,light rain,274.1,1,Monday,22,Tamil Nadu
+316,Koramangala,Minor,Rain,6,09-01-2023 23:00,1251,light rain,274.4,1,Monday,23,Karnataka
+317,Bandra,Severe,Rain,2,10-01-2023 00:00,1843,thunderstorm with rain,294,4,Tuesday,0,Maharashtra
+318,Indiranagar,Moderate,Fog,7,10-01-2023 01:00,3827,light rain,285.1,1,Tuesday,1,Karnataka
+319,Connaught Place,Severe,Rain,9,10-01-2023 02:00,1563,thunderstorm with rain,277,4,Tuesday,2,Delhi
+320,Salt Lake City,Minor,Clear,8,10-01-2023 03:00,2181,heavy rain,287.2,3,Tuesday,3,West Bengal
+321,Gariahat,Moderate,Rain,0,10-01-2023 04:00,1554,drizzle rain,272.2,2,Tuesday,4,West Bengal
+322,Hinjewadi,Minor,Rain,0,10-01-2023 05:00,1863,light rain,290.4,1,Tuesday,5,Maharashtra
+323,Banjara Hills,Moderate,Rain,1,10-01-2023 06:00,1729,light rain,279.4,1,Tuesday,6,Telangana
+324,Jubilee Hills,Severe,Rain,2,10-01-2023 07:00,2238,heavy rain,297.9,3,Tuesday,7,Telangana
+325,Anna Nagar,Minor,Rain,4,10-01-2023 08:00,3619,drizzle rain,280.9,2,Tuesday,8,Tamil Nadu
+326,T. Nagar,Minor,Fog,10,10-01-2023 09:00,1696,thunderstorm with rain,285.9,4,Tuesday,9,Tamil Nadu
+327,Civil Lines,Minor,Fog,21,10-01-2023 10:00,3502,drizzle rain,270.4,2,Tuesday,10,Rajasthan
+328,Kalyani Nagar,Severe,Rain,5,10-01-2023 11:00,2437,heavy rain,272.5,3,Tuesday,11,Maharashtra
+329,Vasant Kunj,Moderate,Rain,6,10-01-2023 12:00,3496,heavy rain,283.7,3,Tuesday,12,Delhi
+330,Alwarpet,Severe,Fog,3,10-01-2023 13:00,1608,drizzle rain,286.8,2,Tuesday,13,Tamil Nadu
+331,Koramangala,Minor,Rain,8,10-01-2023 14:00,1600,thunderstorm with rain,291,4,Tuesday,14,Karnataka
+332,Bandra,Moderate,Clear,9,10-01-2023 15:00,1506,thunderstorm with rain,280.2,4,Tuesday,15,Maharashtra
+333,Indiranagar,Minor,Rain,21,10-01-2023 16:00,2880,light rain,294.3,1,Tuesday,16,Karnataka
+334,Connaught Place,Moderate,Rain,11,10-01-2023 17:00,2875,thunderstorm with rain,300.1,4,Tuesday,17,Delhi
+335,Salt Lake City,Severe,Rain,10,10-01-2023 18:00,1172,drizzle rain,297.3,2,Tuesday,18,West Bengal
+336,Gariahat,Minor,Rain,10,10-01-2023 19:00,1968,heavy rain,271.4,3,Tuesday,19,West Bengal
+337,Hinjewadi,Minor,Rain,10,10-01-2023 20:00,1482,light rain,286.8,1,Tuesday,20,Maharashtra
+338,Banjara Hills,Minor,Fog,21,10-01-2023 21:00,3630,light rain,273.7,1,Tuesday,21,Telangana
+339,Jubilee Hills,Severe,Fog,21,10-01-2023 22:00,909,heavy rain,278.5,3,Tuesday,22,Telangana
+340,Anna Nagar,Moderate,Rain,3,10-01-2023 23:00,1679,thunderstorm with rain,304.5,4,Tuesday,23,Tamil Nadu
+341,T. Nagar,Severe,Rain,5,11-01-2023 00:00,1634,heavy rain,275,3,Wednesday,0,Tamil Nadu
+342,Civil Lines,Minor,Fog,6,11-01-2023 01:00,848,thunderstorm with rain,287.5,4,Wednesday,1,Rajasthan
+343,Kalyani Nagar,Moderate,Rain,2,11-01-2023 02:00,517,heavy rain,291.6,3,Wednesday,2,Maharashtra
+344,Vasant Kunj,Minor,Clear,7,11-01-2023 03:00,3948,drizzle rain,294.6,2,Wednesday,3,Delhi
+345,Alwarpet,Moderate,Rain,0,11-01-2023 04:00,3496,thunderstorm with rain,289.6,4,Wednesday,4,Tamil Nadu
+346,Koramangala,Severe,Rain,1,11-01-2023 05:00,1457,drizzle rain,270.3,2,Wednesday,5,Karnataka
+347,Bandra,Minor,Rain,2,11-01-2023 06:00,883,light rain,281.4,1,Wednesday,6,Maharashtra
+348,Indiranagar,Minor,Rain,4,11-01-2023 07:00,863,heavy rain,288.1,3,Wednesday,7,Karnataka
+349,Connaught Place,Minor,Rain,10,11-01-2023 08:00,2198,light rain,273.1,1,Wednesday,8,Delhi
+350,Salt Lake City,Severe,Fog,21,11-01-2023 09:00,3645,light rain,282.3,1,Wednesday,9,West Bengal
+351,Gariahat,Moderate,Fog,5,11-01-2023 10:00,3943,light rain,271.2,1,Wednesday,10,West Bengal
+352,Hinjewadi,Severe,Rain,6,11-01-2023 11:00,1831,light rain,272.8,1,Wednesday,11,Maharashtra
+353,Banjara Hills,Minor,Rain,3,11-01-2023 12:00,1695,heavy rain,283.9,3,Wednesday,12,Telangana
+354,Jubilee Hills,Moderate,Fog,8,11-01-2023 13:00,3504,light rain,274.6,1,Wednesday,13,Telangana
+355,Anna Nagar,Minor,Rain,9,11-01-2023 14:00,3963,heavy rain,289.9,3,Wednesday,14,Tamil Nadu
+356,T. Nagar,Moderate,Clear,21,11-01-2023 15:00,1336,heavy rain,294.1,3,Wednesday,15,Tamil Nadu
+357,Civil Lines,Severe,Rain,11,11-01-2023 16:00,2053,drizzle rain,298,2,Wednesday,16,Rajasthan
+358,Kalyani Nagar,Minor,Rain,10,11-01-2023 17:00,1720,thunderstorm with rain,277,4,Wednesday,17,Maharashtra
+359,Vasant Kunj,Minor,Rain,10,11-01-2023 18:00,2689,thunderstorm with rain,275.9,4,Wednesday,18,Delhi
+360,Alwarpet,Minor,Rain,10,11-01-2023 19:00,763,heavy rain,273.7,3,Wednesday,19,Tamil Nadu
+361,Koramangala,Severe,Rain,21,11-01-2023 20:00,1491,drizzle rain,292.3,2,Wednesday,20,Karnataka
+362,Bandra,Moderate,Fog,21,11-01-2023 21:00,3781,heavy rain,294.7,3,Wednesday,21,Maharashtra
+363,Indiranagar,Severe,Fog,3,11-01-2023 22:00,3657,heavy rain,271.1,3,Wednesday,22,Karnataka
+364,Connaught Place,Minor,Rain,5,11-01-2023 23:00,3658,heavy rain,302.8,3,Wednesday,23,Delhi
+365,Salt Lake City,Moderate,Rain,6,12-01-2023 00:00,3384,drizzle rain,271.8,2,Thursday,0,West Bengal
+366,Gariahat,Minor,Fog,2,12-01-2023 01:00,1836,thunderstorm with rain,288.9,4,Thursday,1,West Bengal
+367,Hinjewadi,Moderate,Rain,7,12-01-2023 02:00,3896,drizzle rain,294.8,2,Thursday,2,Maharashtra
+368,Banjara Hills,Severe,Clear,9,12-01-2023 03:00,3199,light rain,300.5,1,Thursday,3,Telangana
+369,Jubilee Hills,Minor,Rain,8,12-01-2023 04:00,3352,drizzle rain,295,2,Thursday,4,Telangana
+370,Anna Nagar,Minor,Rain,8,12-01-2023 05:00,898,drizzle rain,298.1,2,Thursday,5,Tamil Nadu
+371,T. Nagar,Minor,Rain,9,12-01-2023 06:00,2360,drizzle rain,281.9,2,Thursday,6,Tamil Nadu
+372,Civil Lines,Severe,Rain,21,12-01-2023 07:00,201,drizzle rain,298.5,2,Thursday,7,Rajasthan
+373,Kalyani Nagar,Moderate,Rain,11,12-01-2023 08:00,841,thunderstorm with rain,272.8,4,Thursday,8,Maharashtra
+374,Vasant Kunj,Severe,Fog,10,12-01-2023 09:00,2467,light rain,301.3,1,Thursday,9,Delhi
+375,Alwarpet,Minor,Fog,10,12-01-2023 10:00,1789,thunderstorm with rain,289.2,4,Thursday,10,Tamil Nadu
+376,Koramangala,Moderate,Rain,10,12-01-2023 11:00,1054,thunderstorm with rain,298.6,4,Thursday,11,Karnataka
+377,Bandra,Minor,Rain,21,12-01-2023 12:00,1959,drizzle rain,285.8,2,Thursday,12,Maharashtra
+378,Indiranagar,Moderate,Fog,21,12-01-2023 13:00,3496,heavy rain,292.5,3,Thursday,13,Karnataka
+379,Connaught Place,Severe,Rain,3,12-01-2023 14:00,2632,heavy rain,288.4,3,Thursday,14,Delhi
+380,Salt Lake City,Minor,Clear,5,12-01-2023 15:00,3674,thunderstorm with rain,295.6,4,Thursday,15,West Bengal
+381,Gariahat,Minor,Rain,6,12-01-2023 16:00,1861,thunderstorm with rain,272.9,4,Thursday,16,West Bengal
+382,Hinjewadi,Minor,Rain,2,12-01-2023 17:00,1353,drizzle rain,272.1,2,Thursday,17,Maharashtra
+383,Banjara Hills,Severe,Rain,7,12-01-2023 18:00,1276,thunderstorm with rain,278.6,4,Thursday,18,Telangana
+384,Jubilee Hills,Moderate,Rain,9,12-01-2023 19:00,1907,drizzle rain,275.6,2,Thursday,19,Telangana
+385,Anna Nagar,Severe,Rain,8,12-01-2023 20:00,2977,heavy rain,300.5,3,Thursday,20,Tamil Nadu
+386,T. Nagar,Minor,Fog,8,12-01-2023 21:00,1895,heavy rain,277.7,3,Thursday,21,Tamil Nadu
+387,Civil Lines,Moderate,Fog,9,12-01-2023 22:00,1933,light rain,304.2,1,Thursday,22,Rajasthan
+388,Kalyani Nagar,Minor,Rain,21,12-01-2023 23:00,1639,heavy rain,281.8,3,Thursday,23,Maharashtra
+389,Vasant Kunj,Moderate,Rain,11,13-01-2023 00:00,2494,thunderstorm with rain,276.4,4,Friday,0,Delhi
+390,Alwarpet,Severe,Fog,10,13-01-2023 01:00,1035,heavy rain,297.6,3,Friday,1,Tamil Nadu
+391,Koramangala,Minor,Rain,10,13-01-2023 02:00,3710,drizzle rain,293.1,2,Friday,2,Karnataka
+392,Bandra,Minor,Clear,10,13-01-2023 03:00,402,heavy rain,287.4,3,Friday,3,Maharashtra
+393,Indiranagar,Minor,Rain,21,13-01-2023 04:00,3455,light rain,289.4,1,Friday,4,Karnataka
+394,Connaught Place,Severe,Rain,21,13-01-2023 05:00,322,heavy rain,295.2,3,Friday,5,Delhi
+395,Salt Lake City,Moderate,Rain,3,13-01-2023 06:00,600,drizzle rain,278,2,Friday,6,West Bengal
+396,Gariahat,Severe,Rain,5,13-01-2023 07:00,966,drizzle rain,304.9,2,Friday,7,West Bengal
+397,Hinjewadi,Minor,Rain,6,13-01-2023 08:00,493,thunderstorm with rain,304.1,4,Friday,8,Maharashtra
+398,Banjara Hills,Moderate,Fog,2,13-01-2023 09:00,2527,heavy rain,292.8,3,Friday,9,Telangana
+399,Jubilee Hills,Minor,Fog,7,13-01-2023 10:00,3131,drizzle rain,277,2,Friday,10,Telangana
+400,Anna Nagar,Moderate,Rain,9,13-01-2023 11:00,3881,light rain,293.8,1,Friday,11,Tamil Nadu
+401,T. Nagar,Severe,Rain,8,13-01-2023 12:00,397,thunderstorm with rain,272.5,4,Friday,12,Tamil Nadu
+402,Civil Lines,Minor,Fog,0,13-01-2023 13:00,3229,light rain,271.1,1,Friday,13,Rajasthan
+403,Kalyani Nagar,Minor,Rain,21,13-01-2023 14:00,2130,heavy rain,279,3,Friday,14,Maharashtra
+404,Vasant Kunj,Minor,Clear,21,13-01-2023 15:00,3782,heavy rain,286.2,3,Friday,15,Delhi
+405,Alwarpet,Severe,Rain,3,13-01-2023 16:00,2999,heavy rain,300.4,3,Friday,16,Tamil Nadu
+406,Koramangala,Moderate,Rain,5,13-01-2023 17:00,2391,thunderstorm with rain,295.5,4,Friday,17,Karnataka
+407,Bandra,Severe,Rain,6,13-01-2023 18:00,808,drizzle rain,296,2,Friday,18,Maharashtra
+408,Indiranagar,Minor,Rain,2,13-01-2023 19:00,3472,thunderstorm with rain,284.9,4,Friday,19,Karnataka
+409,Connaught Place,Moderate,Rain,7,13-01-2023 20:00,1347,light rain,282.1,1,Friday,20,Delhi
+410,Salt Lake City,Minor,Fog,9,13-01-2023 21:00,386,thunderstorm with rain,283,4,Friday,21,West Bengal
+411,Gariahat,Moderate,Fog,8,13-01-2023 22:00,3597,light rain,304.6,1,Friday,22,West Bengal
+412,Hinjewadi,Severe,Rain,8,13-01-2023 23:00,2711,thunderstorm with rain,271.4,4,Friday,23,Maharashtra
+413,Banjara Hills,Minor,Rain,9,14-01-2023 00:00,3620,drizzle rain,300.3,2,Saturday,0,Telangana
+414,Jubilee Hills,Minor,Fog,21,14-01-2023 01:00,1994,light rain,290.3,1,Saturday,1,Telangana
+415,Anna Nagar,Minor,Rain,11,14-01-2023 02:00,859,heavy rain,285.4,3,Saturday,2,Tamil Nadu
+416,T. Nagar,Severe,Clear,10,14-01-2023 03:00,3011,heavy rain,295.4,3,Saturday,3,Tamil Nadu
+417,Civil Lines,Moderate,Rain,10,14-01-2023 04:00,3202,thunderstorm with rain,287,4,Saturday,4,Rajasthan
+418,Kalyani Nagar,Severe,Rain,10,14-01-2023 05:00,2155,heavy rain,300.6,3,Saturday,5,Maharashtra
+419,Vasant Kunj,Minor,Rain,21,14-01-2023 06:00,2650,light rain,301.5,1,Saturday,6,Delhi
+420,Alwarpet,Moderate,Rain,21,14-01-2023 07:00,1569,heavy rain,284.8,3,Saturday,7,Tamil Nadu
+421,Koramangala,Minor,Rain,3,14-01-2023 08:00,2186,drizzle rain,279.7,2,Saturday,8,Karnataka
+422,Bandra,Moderate,Fog,5,14-01-2023 09:00,1734,drizzle rain,290.7,2,Saturday,9,Maharashtra
+423,Indiranagar,Severe,Fog,6,14-01-2023 10:00,346,thunderstorm with rain,301.9,4,Saturday,10,Karnataka
+424,Connaught Place,Minor,Rain,2,14-01-2023 11:00,3419,light rain,277.4,1,Saturday,11,Delhi
+425,Salt Lake City,Minor,Rain,21,14-01-2023 12:00,3111,drizzle rain,291.8,2,Saturday,12,West Bengal
+426,Gariahat,Minor,Fog,21,14-01-2023 13:00,1934,drizzle rain,292.1,2,Saturday,13,West Bengal
+427,Hinjewadi,Severe,Rain,3,14-01-2023 14:00,2043,light rain,295.7,1,Saturday,14,Maharashtra
+428,Banjara Hills,Moderate,Clear,5,14-01-2023 15:00,688,heavy rain,274.6,3,Saturday,15,Telangana
+429,Jubilee Hills,Severe,Rain,6,14-01-2023 16:00,3176,heavy rain,295.1,3,Saturday,16,Telangana
+430,Anna Nagar,Minor,Rain,2,14-01-2023 17:00,2159,thunderstorm with rain,301.8,4,Saturday,17,Tamil Nadu
+431,T. Nagar,Moderate,Rain,7,14-01-2023 18:00,1863,heavy rain,276.3,3,Saturday,18,Tamil Nadu
+432,Civil Lines,Minor,Rain,9,14-01-2023 19:00,2798,light rain,278.3,1,Saturday,19,Rajasthan
+433,Kalyani Nagar,Moderate,Rain,8,14-01-2023 20:00,2585,drizzle rain,304,2,Saturday,20,Maharashtra
+434,Vasant Kunj,Severe,Fog,8,14-01-2023 21:00,3119,heavy rain,276.3,3,Saturday,21,Delhi
+435,Alwarpet,Minor,Fog,9,14-01-2023 22:00,840,thunderstorm with rain,299.9,4,Saturday,22,Tamil Nadu
+436,Koramangala,Minor,Rain,21,14-01-2023 23:00,2002,heavy rain,287.2,3,Saturday,23,Karnataka
+437,Bandra,Minor,Rain,11,15-01-2023 00:00,2720,light rain,278.7,1,Sunday,0,Maharashtra
+438,Indiranagar,Severe,Fog,10,15-01-2023 01:00,2169,thunderstorm with rain,300.5,4,Sunday,1,Karnataka
+439,Connaught Place,Moderate,Rain,10,15-01-2023 02:00,2398,heavy rain,285.6,3,Sunday,2,Delhi
+440,Salt Lake City,Severe,Clear,10,15-01-2023 03:00,1638,thunderstorm with rain,288,4,Sunday,3,West Bengal
+441,Gariahat,Minor,Rain,21,15-01-2023 04:00,3569,light rain,282.6,1,Sunday,4,West Bengal
+442,Hinjewadi,Moderate,Rain,21,15-01-2023 05:00,1834,drizzle rain,290.8,2,Sunday,5,Maharashtra
+443,Banjara Hills,Minor,Rain,3,15-01-2023 06:00,462,light rain,275.7,1,Sunday,6,Telangana
+444,Jubilee Hills,Moderate,Rain,5,15-01-2023 07:00,1987,light rain,283.7,1,Sunday,7,Telangana
+445,Anna Nagar,Severe,Rain,6,15-01-2023 08:00,2391,light rain,303.9,1,Sunday,8,Tamil Nadu
+446,T. Nagar,Minor,Fog,2,15-01-2023 09:00,2593,light rain,279,1,Sunday,9,Tamil Nadu
+447,Civil Lines,Minor,Fog,21,15-01-2023 10:00,823,drizzle rain,293,2,Sunday,10,Rajasthan
+448,Kalyani Nagar,Minor,Rain,21,15-01-2023 11:00,1216,drizzle rain,281.4,2,Sunday,11,Maharashtra
+449,Vasant Kunj,Severe,Rain,3,15-01-2023 12:00,3843,thunderstorm with rain,297.1,4,Sunday,12,Delhi
+450,Alwarpet,Moderate,Fog,5,15-01-2023 13:00,1080,heavy rain,274.6,3,Sunday,13,Tamil Nadu
+451,Koramangala,Severe,Rain,6,15-01-2023 14:00,2249,drizzle rain,303.9,2,Sunday,14,Karnataka
+452,Bandra,Minor,Clear,2,15-01-2023 15:00,3144,drizzle rain,285.9,2,Sunday,15,Maharashtra
+453,Indiranagar,Moderate,Rain,7,15-01-2023 16:00,1527,heavy rain,278.3,3,Sunday,16,Karnataka
+454,Connaught Place,Minor,Rain,9,15-01-2023 17:00,2501,drizzle rain,272.6,2,Sunday,17,Delhi
+455,Salt Lake City,Moderate,Rain,8,15-01-2023 18:00,3923,light rain,275.9,1,Sunday,18,West Bengal
+456,Gariahat,Severe,Rain,8,15-01-2023 19:00,652,light rain,288.2,1,Sunday,19,West Bengal
+457,Hinjewadi,Minor,Rain,9,15-01-2023 20:00,3308,heavy rain,281.8,3,Sunday,20,Maharashtra
+458,Banjara Hills,Minor,Fog,21,15-01-2023 21:00,1383,thunderstorm with rain,299,4,Sunday,21,Telangana
+459,Jubilee Hills,Minor,Fog,11,15-01-2023 22:00,3262,thunderstorm with rain,285.1,4,Sunday,22,Telangana
+460,Anna Nagar,Severe,Rain,10,15-01-2023 23:00,2256,heavy rain,278.7,3,Sunday,23,Tamil Nadu
+461,T. Nagar,Moderate,Rain,10,16-01-2023 00:00,3504,heavy rain,291.6,3,Monday,0,Tamil Nadu
+462,Civil Lines,Severe,Fog,10,16-01-2023 01:00,3370,light rain,294.7,1,Monday,1,Rajasthan
+463,Kalyani Nagar,Minor,Rain,21,16-01-2023 02:00,1882,thunderstorm with rain,275.8,4,Monday,2,Maharashtra
+464,Vasant Kunj,Moderate,Clear,21,16-01-2023 03:00,3063,drizzle rain,275.9,2,Monday,3,Delhi
+465,Alwarpet,Minor,Rain,3,16-01-2023 04:00,2455,light rain,271.3,1,Monday,4,Tamil Nadu
+466,Koramangala,Moderate,Rain,5,16-01-2023 05:00,1354,heavy rain,295.8,3,Monday,5,Karnataka
+467,Bandra,Severe,Rain,6,16-01-2023 06:00,603,thunderstorm with rain,293.2,4,Monday,6,Maharashtra
+468,Indiranagar,Minor,Rain,2,16-01-2023 07:00,2399,drizzle rain,286.6,2,Monday,7,Karnataka
+469,Connaught Place,Minor,Rain,21,16-01-2023 08:00,2301,drizzle rain,299.5,2,Monday,8,Delhi
+470,Salt Lake City,Minor,Fog,21,16-01-2023 09:00,3391,light rain,298.2,1,Monday,9,West Bengal
+471,Gariahat,Severe,Fog,3,16-01-2023 10:00,1896,thunderstorm with rain,290.5,4,Monday,10,West Bengal
+472,Hinjewadi,Moderate,Rain,5,16-01-2023 11:00,827,thunderstorm with rain,300.4,4,Monday,11,Maharashtra
+473,Banjara Hills,Severe,Rain,6,16-01-2023 12:00,786,heavy rain,277.2,3,Monday,12,Telangana
+474,Jubilee Hills,Minor,Fog,2,16-01-2023 13:00,1848,thunderstorm with rain,273.9,4,Monday,13,Telangana
+475,Anna Nagar,Moderate,Rain,7,16-01-2023 14:00,1643,thunderstorm with rain,279.4,4,Monday,14,Tamil Nadu
+476,T. Nagar,Minor,Clear,9,16-01-2023 15:00,1645,light rain,272,1,Monday,15,Tamil Nadu
+477,Civil Lines,Moderate,Rain,8,16-01-2023 16:00,303,thunderstorm with rain,288.6,4,Monday,16,Rajasthan
+478,Kalyani Nagar,Severe,Rain,8,16-01-2023 17:00,453,drizzle rain,302.8,2,Monday,17,Maharashtra
+479,Vasant Kunj,Minor,Rain,9,16-01-2023 18:00,3498,light rain,271.4,1,Monday,18,Delhi
+480,Alwarpet,Minor,Rain,21,16-01-2023 19:00,3383,light rain,274.3,1,Monday,19,Tamil Nadu
+481,Koramangala,Minor,Rain,11,16-01-2023 20:00,2757,heavy rain,285.8,3,Monday,20,Karnataka
+482,Bandra,Severe,Fog,10,16-01-2023 21:00,1696,thunderstorm with rain,302.7,4,Monday,21,Maharashtra
+483,Indiranagar,Moderate,Fog,10,16-01-2023 22:00,298,heavy rain,281.1,3,Monday,22,Karnataka
+484,Connaught Place,Severe,Rain,10,16-01-2023 23:00,2400,drizzle rain,287.8,2,Monday,23,Delhi
+485,Salt Lake City,Minor,Rain,21,17-01-2023 00:00,2084,light rain,271.5,1,Tuesday,0,West Bengal
+486,Gariahat,Moderate,Fog,21,17-01-2023 01:00,3161,light rain,275.2,1,Tuesday,1,West Bengal
+487,Hinjewadi,Minor,Rain,3,17-01-2023 02:00,2119,light rain,304.5,1,Tuesday,2,Maharashtra
+488,Banjara Hills,Moderate,Clear,5,17-01-2023 03:00,1077,drizzle rain,303.8,2,Tuesday,3,Telangana
+489,Jubilee Hills,Severe,Rain,6,17-01-2023 04:00,537,drizzle rain,270.2,2,Tuesday,4,Telangana
+490,Anna Nagar,Minor,Rain,21,17-01-2023 05:00,3977,heavy rain,303.3,3,Tuesday,5,Tamil Nadu
+491,T. Nagar,Minor,Rain,21,17-01-2023 06:00,3069,heavy rain,292.4,3,Tuesday,6,Tamil Nadu
+492,Civil Lines,Minor,Rain,3,17-01-2023 07:00,3434,heavy rain,300.4,3,Tuesday,7,Rajasthan
+493,Kalyani Nagar,Severe,Rain,5,17-01-2023 08:00,3991,thunderstorm with rain,285.9,4,Tuesday,8,Maharashtra
+494,Vasant Kunj,Moderate,Fog,6,17-01-2023 09:00,1156,light rain,288,1,Tuesday,9,Delhi
+495,Alwarpet,Severe,Fog,2,17-01-2023 10:00,1904,light rain,287.1,1,Tuesday,10,Tamil Nadu
+496,Koramangala,Minor,Rain,7,17-01-2023 11:00,360,heavy rain,293.3,3,Tuesday,11,Karnataka
+497,Bandra,Moderate,Rain,9,17-01-2023 12:00,1803,light rain,274.9,1,Tuesday,12,Maharashtra
+498,Indiranagar,Minor,Fog,8,17-01-2023 13:00,3048,heavy rain,271,3,Tuesday,13,Karnataka
+499,Connaught Place,Moderate,Rain,8,17-01-2023 14:00,597,thunderstorm with rain,280.8,4,Tuesday,14,Delhi
+500,Salt Lake City,Severe,Clear,9,17-01-2023 15:00,1500,thunderstorm with rain,294.7,4,Tuesday,15,West Bengal
+501,Gariahat,Minor,Rain,21,17-01-2023 16:00,1015,drizzle rain,277.1,2,Tuesday,16,West Bengal
+502,Hinjewadi,Minor,Rain,11,17-01-2023 17:00,1727,thunderstorm with rain,293.6,4,Tuesday,17,Maharashtra
+503,Banjara Hills,Minor,Rain,10,17-01-2023 18:00,2119,heavy rain,303.9,3,Tuesday,18,Telangana
+504,Jubilee Hills,Severe,Rain,10,17-01-2023 19:00,1615,thunderstorm with rain,273.3,4,Tuesday,19,Telangana
+505,Anna Nagar,Moderate,Rain,10,17-01-2023 20:00,1358,drizzle rain,293.5,2,Tuesday,20,Tamil Nadu
+506,T. Nagar,Severe,Fog,21,17-01-2023 21:00,1418,light rain,285.5,1,Tuesday,21,Tamil Nadu
+507,Civil Lines,Minor,Fog,21,17-01-2023 22:00,600,heavy rain,300.4,3,Tuesday,22,Rajasthan
+508,Kalyani Nagar,Moderate,Rain,3,17-01-2023 23:00,839,light rain,276.2,1,Tuesday,23,Maharashtra
+509,Vasant Kunj,Minor,Rain,5,18-01-2023 00:00,3304,drizzle rain,294.2,2,Wednesday,0,Delhi
+510,Alwarpet,Moderate,Fog,6,18-01-2023 01:00,2935,drizzle rain,299.3,2,Wednesday,1,Tamil Nadu
+511,Koramangala,Severe,Rain,2,18-01-2023 02:00,659,drizzle rain,303.1,2,Wednesday,2,Karnataka
+512,Bandra,Minor,Clear,21,18-01-2023 03:00,1154,light rain,293.9,1,Wednesday,3,Maharashtra
+513,Indiranagar,Minor,Rain,21,18-01-2023 04:00,669,light rain,287.4,1,Wednesday,4,Karnataka
+514,Connaught Place,Minor,Rain,3,18-01-2023 05:00,3646,light rain,291.6,1,Wednesday,5,Delhi
+515,Salt Lake City,Severe,Rain,5,18-01-2023 06:00,1245,light rain,300.4,1,Wednesday,6,West Bengal
+516,Gariahat,Moderate,Rain,6,18-01-2023 07:00,2997,drizzle rain,290,2,Wednesday,7,West Bengal
+517,Hinjewadi,Severe,Rain,2,18-01-2023 08:00,1893,drizzle rain,271.1,2,Wednesday,8,Maharashtra
+518,Banjara Hills,Minor,Fog,7,18-01-2023 09:00,2285,heavy rain,302.6,3,Wednesday,9,Telangana
+519,Jubilee Hills,Moderate,Fog,9,18-01-2023 10:00,2477,heavy rain,294.1,3,Wednesday,10,Telangana
+520,Anna Nagar,Minor,Rain,8,18-01-2023 11:00,3636,light rain,293.7,1,Wednesday,11,Tamil Nadu
+521,T. Nagar,Moderate,Rain,8,18-01-2023 12:00,762,thunderstorm with rain,277.5,4,Wednesday,12,Tamil Nadu
+522,Civil Lines,Severe,Fog,9,18-01-2023 13:00,2685,thunderstorm with rain,293.1,4,Wednesday,13,Rajasthan
+523,Kalyani Nagar,Minor,Rain,21,18-01-2023 14:00,1999,drizzle rain,283.8,2,Wednesday,14,Maharashtra
+524,Vasant Kunj,Minor,Clear,11,18-01-2023 15:00,3554,drizzle rain,292.8,2,Wednesday,15,Delhi
+525,Alwarpet,Minor,Rain,10,18-01-2023 16:00,2274,drizzle rain,273.7,2,Wednesday,16,Tamil Nadu
+526,Koramangala,Severe,Rain,10,18-01-2023 17:00,425,heavy rain,293,3,Wednesday,17,Karnataka
+527,Bandra,Moderate,Rain,10,18-01-2023 18:00,3548,heavy rain,305,3,Wednesday,18,Maharashtra
+528,Indiranagar,Severe,Rain,21,18-01-2023 19:00,997,drizzle rain,271.7,2,Wednesday,19,Karnataka
+529,Connaught Place,Minor,Rain,21,18-01-2023 20:00,3880,drizzle rain,304.2,2,Wednesday,20,Delhi
+530,Salt Lake City,Moderate,Fog,3,18-01-2023 21:00,2531,drizzle rain,284.2,2,Wednesday,21,West Bengal
+531,Gariahat,Minor,Fog,5,18-01-2023 22:00,3126,thunderstorm with rain,300.5,4,Wednesday,22,West Bengal
+532,Hinjewadi,Moderate,Rain,6,18-01-2023 23:00,1159,heavy rain,297.4,3,Wednesday,23,Maharashtra
+533,Banjara Hills,Severe,Rain,21,19-01-2023 00:00,1704,thunderstorm with rain,289.8,4,Thursday,0,Telangana
+534,Jubilee Hills,Minor,Fog,21,19-01-2023 01:00,652,thunderstorm with rain,295.8,4,Thursday,1,Telangana
+535,Anna Nagar,Minor,Rain,3,19-01-2023 02:00,3267,drizzle rain,300.7,2,Thursday,2,Tamil Nadu
+536,T. Nagar,Minor,Clear,5,19-01-2023 03:00,1015,drizzle rain,284.1,2,Thursday,3,Tamil Nadu
+537,Civil Lines,Severe,Rain,6,19-01-2023 04:00,858,light rain,281.4,1,Thursday,4,Rajasthan
+538,Kalyani Nagar,Moderate,Rain,2,19-01-2023 05:00,3787,light rain,293.4,1,Thursday,5,Maharashtra
+539,Vasant Kunj,Severe,Rain,7,19-01-2023 06:00,746,thunderstorm with rain,298.3,4,Thursday,6,Delhi
+540,Alwarpet,Minor,Rain,9,19-01-2023 07:00,1415,heavy rain,296.7,3,Thursday,7,Tamil Nadu
+541,Koramangala,Moderate,Rain,8,19-01-2023 08:00,3320,drizzle rain,297.9,2,Thursday,8,Karnataka
+542,Bandra,Minor,Fog,8,19-01-2023 09:00,3783,drizzle rain,285.2,2,Thursday,9,Maharashtra
+543,Indiranagar,Moderate,Fog,9,19-01-2023 10:00,216,thunderstorm with rain,298.6,4,Thursday,10,Karnataka
+544,Connaught Place,Severe,Rain,21,19-01-2023 11:00,3443,light rain,274.2,1,Thursday,11,Delhi
+545,Salt Lake City,Minor,Rain,11,19-01-2023 12:00,1443,heavy rain,289.1,3,Thursday,12,West Bengal
+546,Gariahat,Minor,Fog,10,19-01-2023 13:00,2405,light rain,270.2,1,Thursday,13,West Bengal
+547,Hinjewadi,Minor,Rain,10,19-01-2023 14:00,2724,light rain,281.4,1,Thursday,14,Maharashtra
+548,Banjara Hills,Severe,Clear,10,19-01-2023 15:00,1269,light rain,282.8,1,Thursday,15,Telangana
+549,Jubilee Hills,Moderate,Rain,21,19-01-2023 16:00,3644,light rain,283.9,1,Thursday,16,Telangana
+550,Anna Nagar,Severe,Rain,21,19-01-2023 17:00,2765,drizzle rain,294.3,2,Thursday,17,Tamil Nadu
+551,T. Nagar,Minor,Rain,3,19-01-2023 18:00,2346,drizzle rain,283.6,2,Thursday,18,Tamil Nadu
+552,Civil Lines,Moderate,Rain,5,19-01-2023 19:00,1968,light rain,285.7,1,Thursday,19,Rajasthan
+553,Kalyani Nagar,Minor,Rain,6,19-01-2023 20:00,1260,heavy rain,278.3,3,Thursday,20,Maharashtra
+554,Vasant Kunj,Moderate,Fog,2,19-01-2023 21:00,2527,thunderstorm with rain,283.1,4,Thursday,21,Delhi
+555,Alwarpet,Severe,Fog,21,19-01-2023 22:00,3620,heavy rain,278,3,Thursday,22,Tamil Nadu
+556,Koramangala,Minor,Rain,21,19-01-2023 23:00,2744,heavy rain,272.6,3,Thursday,23,Karnataka
+557,Bandra,Minor,Rain,3,20-01-2023 00:00,501,heavy rain,291.1,3,Friday,0,Maharashtra
+558,Indiranagar,Minor,Fog,5,20-01-2023 01:00,380,light rain,293.4,1,Friday,1,Karnataka
+559,Connaught Place,Severe,Rain,6,20-01-2023 02:00,806,drizzle rain,291.7,2,Friday,2,Delhi
+560,Salt Lake City,Moderate,Clear,2,20-01-2023 03:00,3370,heavy rain,286.2,3,Friday,3,West Bengal
+561,Gariahat,Severe,Rain,7,20-01-2023 04:00,899,light rain,283.3,1,Friday,4,West Bengal
+562,Hinjewadi,Minor,Rain,9,20-01-2023 05:00,1192,heavy rain,300.2,3,Friday,5,Maharashtra
+563,Banjara Hills,Moderate,Rain,8,20-01-2023 06:00,1339,heavy rain,288.2,3,Friday,6,Telangana
+564,Jubilee Hills,Minor,Rain,8,20-01-2023 07:00,390,light rain,286.8,1,Friday,7,Telangana
+565,Anna Nagar,Moderate,Rain,9,20-01-2023 08:00,2500,drizzle rain,270.9,2,Friday,8,Tamil Nadu
+566,T. Nagar,Severe,Fog,21,20-01-2023 09:00,1180,drizzle rain,281.9,2,Friday,9,Tamil Nadu
+567,Civil Lines,Minor,Fog,11,20-01-2023 10:00,3175,thunderstorm with rain,283.3,4,Friday,10,Rajasthan
+568,Kalyani Nagar,Minor,Rain,10,20-01-2023 11:00,2206,light rain,284,1,Friday,11,Maharashtra
+569,Vasant Kunj,Minor,Rain,10,20-01-2023 12:00,1384,thunderstorm with rain,290.3,4,Friday,12,Delhi
+570,Alwarpet,Severe,Fog,10,20-01-2023 13:00,3527,thunderstorm with rain,288.7,4,Friday,13,Tamil Nadu
+571,Koramangala,Moderate,Rain,21,20-01-2023 14:00,3594,thunderstorm with rain,291.3,4,Friday,14,Karnataka
+572,Bandra,Severe,Clear,21,20-01-2023 15:00,327,drizzle rain,296.8,2,Friday,15,Maharashtra
+573,Indiranagar,Minor,Rain,3,20-01-2023 16:00,2265,light rain,298.5,1,Friday,16,Karnataka
+574,Connaught Place,Moderate,Rain,5,20-01-2023 17:00,2016,thunderstorm with rain,295.1,4,Friday,17,Delhi
+575,Salt Lake City,Minor,Rain,6,20-01-2023 18:00,1958,light rain,303.4,1,Friday,18,West Bengal
+576,Gariahat,Moderate,Rain,21,20-01-2023 19:00,2813,light rain,270.6,1,Friday,19,West Bengal
+577,Hinjewadi,Severe,Rain,21,20-01-2023 20:00,769,drizzle rain,276.9,2,Friday,20,Maharashtra
+578,Banjara Hills,Minor,Fog,3,20-01-2023 21:00,1546,thunderstorm with rain,270.3,4,Friday,21,Telangana
+579,Jubilee Hills,Minor,Fog,5,20-01-2023 22:00,2095,thunderstorm with rain,292.7,4,Friday,22,Telangana
+580,Anna Nagar,Minor,Rain,6,20-01-2023 23:00,2933,light rain,301.4,1,Friday,23,Tamil Nadu
+581,T. Nagar,Severe,Rain,2,21-01-2023 00:00,825,heavy rain,278.5,3,Saturday,0,Tamil Nadu
+582,Civil Lines,Moderate,Fog,7,21-01-2023 01:00,3559,drizzle rain,302.4,2,Saturday,1,Rajasthan
+583,Kalyani Nagar,Severe,Rain,9,21-01-2023 02:00,3101,drizzle rain,272.1,2,Saturday,2,Maharashtra
+584,Vasant Kunj,Minor,Clear,8,21-01-2023 03:00,1886,drizzle rain,302.7,2,Saturday,3,Delhi
+585,Alwarpet,Moderate,Rain,8,21-01-2023 04:00,3209,drizzle rain,282.3,2,Saturday,4,Tamil Nadu
+586,Koramangala,Minor,Rain,9,21-01-2023 05:00,3910,thunderstorm with rain,273.5,4,Saturday,5,Karnataka
+587,Bandra,Moderate,Rain,21,21-01-2023 06:00,354,thunderstorm with rain,287,4,Saturday,6,Maharashtra
+588,Indiranagar,Severe,Rain,11,21-01-2023 07:00,2737,heavy rain,279,3,Saturday,7,Karnataka
+589,Connaught Place,Minor,Rain,10,21-01-2023 08:00,1609,drizzle rain,280,2,Saturday,8,Delhi
+590,Salt Lake City,Minor,Fog,10,21-01-2023 09:00,984,drizzle rain,280.8,2,Saturday,9,West Bengal
+591,Gariahat,Minor,Fog,10,21-01-2023 10:00,3375,light rain,298.1,1,Saturday,10,West Bengal
+592,Hinjewadi,Severe,Rain,21,21-01-2023 11:00,3664,thunderstorm with rain,288.9,4,Saturday,11,Maharashtra
+593,Banjara Hills,Moderate,Rain,21,21-01-2023 12:00,445,drizzle rain,280.9,2,Saturday,12,Telangana
+594,Jubilee Hills,Severe,Fog,3,21-01-2023 13:00,3447,heavy rain,291.4,3,Saturday,13,Telangana
+595,Anna Nagar,Minor,Rain,5,21-01-2023 14:00,3310,heavy rain,295.1,3,Saturday,14,Tamil Nadu
+596,T. Nagar,Moderate,Clear,6,21-01-2023 15:00,1700,thunderstorm with rain,279.5,4,Saturday,15,Tamil Nadu
+597,Civil Lines,Minor,Rain,21,21-01-2023 16:00,1905,heavy rain,284.5,3,Saturday,16,Rajasthan
+598,Kalyani Nagar,Moderate,Rain,21,21-01-2023 17:00,3006,heavy rain,274.3,3,Saturday,17,Maharashtra
+599,Vasant Kunj,Severe,Rain,3,21-01-2023 18:00,737,thunderstorm with rain,276.3,4,Saturday,18,Delhi
+600,Alwarpet,Minor,Rain,5,21-01-2023 19:00,2090,drizzle rain,293.8,2,Saturday,19,Tamil Nadu
+601,Koramangala,Minor,Rain,6,21-01-2023 20:00,2041,drizzle rain,276.4,2,Saturday,20,Karnataka
+602,Bandra,Minor,Fog,2,21-01-2023 21:00,1120,heavy rain,288.4,3,Saturday,21,Maharashtra
+603,Indiranagar,Severe,Fog,7,21-01-2023 22:00,2655,heavy rain,294.8,3,Saturday,22,Karnataka
+604,Connaught Place,Moderate,Rain,9,21-01-2023 23:00,724,drizzle rain,273.7,2,Saturday,23,Delhi
+605,Salt Lake City,Severe,Rain,8,22-01-2023 00:00,3075,thunderstorm with rain,289.9,4,Sunday,0,West Bengal
+606,Gariahat,Minor,Fog,8,22-01-2023 01:00,1729,heavy rain,279,3,Sunday,1,West Bengal
+607,Hinjewadi,Moderate,Rain,9,22-01-2023 02:00,3150,light rain,303.7,1,Sunday,2,Maharashtra
+608,Banjara Hills,Minor,Clear,21,22-01-2023 03:00,235,thunderstorm with rain,286.9,4,Sunday,3,Telangana
+609,Jubilee Hills,Moderate,Rain,11,22-01-2023 04:00,884,heavy rain,298.2,3,Sunday,4,Telangana
+610,Anna Nagar,Severe,Rain,10,22-01-2023 05:00,219,heavy rain,289.3,3,Sunday,5,Tamil Nadu
+611,T. Nagar,Minor,Rain,10,22-01-2023 06:00,2568,light rain,271.5,1,Sunday,6,Tamil Nadu
+612,Civil Lines,Minor,Rain,10,22-01-2023 07:00,2759,light rain,292.2,1,Sunday,7,Rajasthan
+613,Kalyani Nagar,Minor,Rain,21,22-01-2023 08:00,599,drizzle rain,303.3,2,Sunday,8,Maharashtra
+614,Vasant Kunj,Severe,Fog,21,22-01-2023 09:00,2901,thunderstorm with rain,291.1,4,Sunday,9,Delhi
+615,Alwarpet,Moderate,Fog,3,22-01-2023 10:00,1171,thunderstorm with rain,298.7,4,Sunday,10,Tamil Nadu
+616,Koramangala,Severe,Rain,5,22-01-2023 11:00,2106,drizzle rain,300.9,2,Sunday,11,Karnataka
+617,Bandra,Minor,Rain,6,22-01-2023 12:00,2718,thunderstorm with rain,278,4,Sunday,12,Maharashtra
+618,Indiranagar,Moderate,Fog,2,22-01-2023 13:00,1366,thunderstorm with rain,277.4,4,Sunday,13,Karnataka
+619,Connaught Place,Minor,Rain,21,22-01-2023 14:00,1315,thunderstorm with rain,291.4,4,Sunday,14,Delhi
+620,Salt Lake City,Moderate,Clear,21,22-01-2023 15:00,3625,thunderstorm with rain,284.4,4,Sunday,15,West Bengal
+621,Gariahat,Severe,Rain,3,22-01-2023 16:00,1033,thunderstorm with rain,299.4,4,Sunday,16,West Bengal
+622,Hinjewadi,Minor,Rain,5,22-01-2023 17:00,2023,light rain,301.5,1,Sunday,17,Maharashtra
+623,Banjara Hills,Minor,Rain,6,22-01-2023 18:00,2974,thunderstorm with rain,282.4,4,Sunday,18,Telangana
+624,Jubilee Hills,Minor,Rain,2,22-01-2023 19:00,2182,light rain,278.3,1,Sunday,19,Telangana
+625,Anna Nagar,Severe,Rain,7,22-01-2023 20:00,1053,thunderstorm with rain,297.3,4,Sunday,20,Tamil Nadu
+626,T. Nagar,Moderate,Fog,9,22-01-2023 21:00,250,drizzle rain,279.6,2,Sunday,21,Tamil Nadu
+627,Civil Lines,Severe,Fog,8,22-01-2023 22:00,3936,heavy rain,298.8,3,Sunday,22,Rajasthan
+628,Kalyani Nagar,Minor,Rain,8,22-01-2023 23:00,3969,light rain,284.8,1,Sunday,23,Maharashtra
+629,Vasant Kunj,Moderate,Rain,9,23-01-2023 00:00,774,thunderstorm with rain,293.4,4,Monday,0,Delhi
+630,Alwarpet,Minor,Fog,21,23-01-2023 01:00,3461,drizzle rain,273.3,2,Monday,1,Tamil Nadu
+631,Koramangala,Moderate,Rain,11,23-01-2023 02:00,1348,heavy rain,291.8,3,Monday,2,Karnataka
+632,Bandra,Severe,Clear,10,23-01-2023 03:00,2397,light rain,285.8,1,Monday,3,Maharashtra
+633,Indiranagar,Minor,Rain,10,23-01-2023 04:00,2561,heavy rain,290.5,3,Monday,4,Karnataka
+634,Connaught Place,Minor,Rain,10,23-01-2023 05:00,2817,drizzle rain,275.9,2,Monday,5,Delhi
+635,Salt Lake City,Minor,Rain,21,23-01-2023 06:00,3613,light rain,295.8,1,Monday,6,West Bengal
+636,Gariahat,Severe,Rain,21,23-01-2023 07:00,2552,heavy rain,300.2,3,Monday,7,West Bengal
+637,Hinjewadi,Moderate,Rain,3,23-01-2023 08:00,1915,thunderstorm with rain,277.6,4,Monday,8,Maharashtra
+638,Banjara Hills,Severe,Fog,5,23-01-2023 09:00,881,light rain,273.4,1,Monday,9,Telangana
+639,Jubilee Hills,Minor,Fog,6,23-01-2023 10:00,1037,heavy rain,270.8,3,Monday,10,Telangana
+640,Anna Nagar,Moderate,Rain,2,23-01-2023 11:00,1277,drizzle rain,292.5,2,Monday,11,Tamil Nadu
+641,T. Nagar,Minor,Rain,21,23-01-2023 12:00,3250,drizzle rain,291.2,2,Monday,12,Tamil Nadu
+642,Civil Lines,Moderate,Fog,21,23-01-2023 13:00,2691,light rain,289.1,1,Monday,13,Rajasthan
+643,Kalyani Nagar,Severe,Rain,3,23-01-2023 14:00,2860,heavy rain,278.1,3,Monday,14,Maharashtra
+644,Vasant Kunj,Minor,Clear,5,23-01-2023 15:00,3240,light rain,283.7,1,Monday,15,Delhi
+645,Alwarpet,Minor,Rain,6,23-01-2023 16:00,2511,light rain,290.8,1,Monday,16,Tamil Nadu
+646,Koramangala,Minor,Rain,2,23-01-2023 17:00,3324,heavy rain,287.4,3,Monday,17,Karnataka
+647,Bandra,Severe,Rain,7,23-01-2023 18:00,1795,heavy rain,304.6,3,Monday,18,Maharashtra
+648,Indiranagar,Moderate,Rain,9,23-01-2023 19:00,3251,thunderstorm with rain,274.8,4,Monday,19,Karnataka
+649,Connaught Place,Severe,Rain,8,23-01-2023 20:00,3891,heavy rain,294.3,3,Monday,20,Delhi
+650,Salt Lake City,Minor,Fog,8,23-01-2023 21:00,204,drizzle rain,284.2,2,Monday,21,West Bengal
+651,Gariahat,Moderate,Fog,9,23-01-2023 22:00,1326,light rain,285,1,Monday,22,West Bengal
+652,Hinjewadi,Minor,Rain,21,23-01-2023 23:00,1419,light rain,295.1,1,Monday,23,Maharashtra
+653,Banjara Hills,Moderate,Rain,11,24-01-2023 00:00,973,drizzle rain,294.2,2,Tuesday,0,Telangana
+654,Jubilee Hills,Severe,Fog,10,24-01-2023 01:00,1076,heavy rain,304.7,3,Tuesday,1,Telangana
+655,Anna Nagar,Minor,Rain,10,24-01-2023 02:00,1191,drizzle rain,274.5,2,Tuesday,2,Tamil Nadu
+656,T. Nagar,Minor,Clear,10,24-01-2023 03:00,3131,drizzle rain,273.6,2,Tuesday,3,Tamil Nadu
+657,Civil Lines,Minor,Rain,21,24-01-2023 04:00,3621,thunderstorm with rain,295.4,4,Tuesday,4,Rajasthan
+658,Kalyani Nagar,Severe,Rain,21,24-01-2023 05:00,246,drizzle rain,290.2,2,Tuesday,5,Maharashtra
+659,Vasant Kunj,Moderate,Rain,3,24-01-2023 06:00,3114,light rain,279.6,1,Tuesday,6,Delhi
+660,Alwarpet,Severe,Rain,5,24-01-2023 07:00,3070,drizzle rain,272.8,2,Tuesday,7,Tamil Nadu
+661,Koramangala,Minor,Rain,6,24-01-2023 08:00,3183,light rain,273,1,Tuesday,8,Karnataka
+662,Bandra,Moderate,Fog,21,24-01-2023 09:00,2903,light rain,301.3,1,Tuesday,9,Maharashtra
+663,Indiranagar,Minor,Fog,21,24-01-2023 10:00,468,light rain,276.7,1,Tuesday,10,Karnataka
+664,Connaught Place,Moderate,Rain,3,24-01-2023 11:00,569,heavy rain,281.3,3,Tuesday,11,Delhi
+665,Salt Lake City,Severe,Rain,5,24-01-2023 12:00,835,thunderstorm with rain,277.9,4,Tuesday,12,West Bengal
+666,Gariahat,Minor,Fog,6,24-01-2023 13:00,1329,light rain,282.4,1,Tuesday,13,West Bengal
+667,Hinjewadi,Minor,Rain,2,24-01-2023 14:00,1893,light rain,272.4,1,Tuesday,14,Maharashtra
+668,Banjara Hills,Minor,Clear,7,24-01-2023 15:00,1882,heavy rain,288.2,3,Tuesday,15,Telangana
+669,Jubilee Hills,Severe,Rain,9,24-01-2023 16:00,856,light rain,272.4,1,Tuesday,16,Telangana
+670,Anna Nagar,Moderate,Rain,8,24-01-2023 17:00,319,drizzle rain,298,2,Tuesday,17,Tamil Nadu
+671,T. Nagar,Severe,Rain,8,24-01-2023 18:00,1030,drizzle rain,278.2,2,Tuesday,18,Tamil Nadu
+672,Civil Lines,Minor,Rain,9,24-01-2023 19:00,2010,thunderstorm with rain,288.9,4,Tuesday,19,Rajasthan
+673,Kalyani Nagar,Moderate,Rain,21,24-01-2023 20:00,3875,light rain,300.8,1,Tuesday,20,Maharashtra
+674,Vasant Kunj,Minor,Fog,11,24-01-2023 21:00,1281,heavy rain,292.8,3,Tuesday,21,Delhi
+675,Alwarpet,Moderate,Fog,10,24-01-2023 22:00,2174,drizzle rain,288.7,2,Tuesday,22,Tamil Nadu
+676,Koramangala,Severe,Rain,10,24-01-2023 23:00,1569,heavy rain,281.4,3,Tuesday,23,Karnataka
+677,Bandra,Minor,Rain,10,25-01-2023 00:00,940,heavy rain,281.7,3,Wednesday,0,Maharashtra
+678,Indiranagar,Minor,Fog,21,25-01-2023 01:00,3745,drizzle rain,293.4,2,Wednesday,1,Karnataka
+679,Connaught Place,Minor,Rain,21,25-01-2023 02:00,316,heavy rain,304.8,3,Wednesday,2,Delhi
+680,Salt Lake City,Severe,Clear,3,25-01-2023 03:00,2053,drizzle rain,293.2,2,Wednesday,3,West Bengal
+681,Gariahat,Moderate,Rain,5,25-01-2023 04:00,3038,heavy rain,289.5,3,Wednesday,4,West Bengal
+682,Hinjewadi,Severe,Rain,6,25-01-2023 05:00,1350,drizzle rain,295.6,2,Wednesday,5,Maharashtra
+683,Banjara Hills,Minor,Rain,21,25-01-2023 06:00,3664,light rain,286.3,1,Wednesday,6,Telangana
+684,Jubilee Hills,Moderate,Rain,21,25-01-2023 07:00,2131,thunderstorm with rain,272.1,4,Wednesday,7,Telangana
+685,Anna Nagar,Minor,Rain,3,25-01-2023 08:00,1212,drizzle rain,289.7,2,Wednesday,8,Tamil Nadu
+686,T. Nagar,Moderate,Fog,5,25-01-2023 09:00,1864,drizzle rain,303.5,2,Wednesday,9,Tamil Nadu
+687,Civil Lines,Severe,Fog,6,25-01-2023 10:00,1281,thunderstorm with rain,276.1,4,Wednesday,10,Rajasthan
+688,Kalyani Nagar,Minor,Rain,2,25-01-2023 11:00,833,drizzle rain,294.2,2,Wednesday,11,Maharashtra
+689,Vasant Kunj,Minor,Rain,7,25-01-2023 12:00,712,drizzle rain,277,2,Wednesday,12,Delhi
+690,Alwarpet,Minor,Fog,9,25-01-2023 13:00,3049,heavy rain,288.8,3,Wednesday,13,Tamil Nadu
+691,Koramangala,Severe,Rain,8,25-01-2023 14:00,1319,thunderstorm with rain,273.4,4,Wednesday,14,Karnataka
+692,Bandra,Moderate,Clear,8,25-01-2023 15:00,3909,light rain,285.8,1,Wednesday,15,Maharashtra
+693,Indiranagar,Severe,Rain,9,25-01-2023 16:00,1341,drizzle rain,296.5,2,Wednesday,16,Karnataka
+694,Connaught Place,Minor,Rain,21,25-01-2023 17:00,759,thunderstorm with rain,282.2,4,Wednesday,17,Delhi
+695,Salt Lake City,Moderate,Rain,11,25-01-2023 18:00,3872,heavy rain,293.3,3,Wednesday,18,West Bengal
+696,Gariahat,Minor,Rain,10,25-01-2023 19:00,687,light rain,297.8,1,Wednesday,19,West Bengal
+697,Hinjewadi,Moderate,Rain,10,25-01-2023 20:00,3508,thunderstorm with rain,302.5,4,Wednesday,20,Maharashtra
+698,Banjara Hills,Severe,Fog,10,25-01-2023 21:00,1096,light rain,278.2,1,Wednesday,21,Telangana
+699,Jubilee Hills,Minor,Fog,21,25-01-2023 22:00,3543,light rain,284,1,Wednesday,22,Telangana
+700,Anna Nagar,Minor,Rain,21,25-01-2023 23:00,1412,light rain,275.3,1,Wednesday,23,Tamil Nadu
+701,T. Nagar,Minor,Rain,3,26-01-2023 00:00,903,drizzle rain,304.7,2,Thursday,0,Tamil Nadu
+702,Civil Lines,Severe,Fog,5,26-01-2023 01:00,1670,drizzle rain,302.4,2,Thursday,1,Rajasthan
+703,Kalyani Nagar,Moderate,Rain,6,26-01-2023 02:00,780,heavy rain,288.9,3,Thursday,2,Maharashtra
+704,Vasant Kunj,Severe,Clear,21,26-01-2023 03:00,3037,heavy rain,299.5,3,Thursday,3,Delhi
+705,Alwarpet,Minor,Rain,21,26-01-2023 04:00,3108,thunderstorm with rain,288.2,4,Thursday,4,Tamil Nadu
+706,Koramangala,Moderate,Rain,3,26-01-2023 05:00,2494,heavy rain,291.8,3,Thursday,5,Karnataka
+707,Bandra,Minor,Rain,5,26-01-2023 06:00,3347,light rain,273.1,1,Thursday,6,Maharashtra
+708,Indiranagar,Moderate,Rain,6,26-01-2023 07:00,353,light rain,296.4,1,Thursday,7,Karnataka
+709,Connaught Place,Severe,Rain,2,26-01-2023 08:00,1879,drizzle rain,274.5,2,Thursday,8,Delhi
+710,Salt Lake City,Minor,Fog,7,26-01-2023 09:00,3706,light rain,298.9,1,Thursday,9,West Bengal
+711,Gariahat,Minor,Fog,9,26-01-2023 10:00,1196,thunderstorm with rain,297.4,4,Thursday,10,West Bengal
+712,Hinjewadi,Minor,Rain,8,26-01-2023 11:00,3357,light rain,294.8,1,Thursday,11,Maharashtra
+713,Banjara Hills,Severe,Rain,8,26-01-2023 12:00,2944,light rain,271.3,1,Thursday,12,Telangana
+714,Jubilee Hills,Moderate,Fog,9,26-01-2023 13:00,3556,thunderstorm with rain,280.6,4,Thursday,13,Telangana
+715,Anna Nagar,Severe,Rain,21,26-01-2023 14:00,1443,heavy rain,279.2,3,Thursday,14,Tamil Nadu
+716,T. Nagar,Minor,Clear,11,26-01-2023 15:00,1292,heavy rain,282.6,3,Thursday,15,Tamil Nadu
+717,Civil Lines,Moderate,Rain,10,26-01-2023 16:00,3318,thunderstorm with rain,273.1,4,Thursday,16,Rajasthan
+718,Kalyani Nagar,Minor,Rain,10,26-01-2023 17:00,1208,drizzle rain,302.8,2,Thursday,17,Maharashtra
+719,Vasant Kunj,Moderate,Rain,10,26-01-2023 18:00,2341,light rain,289.4,1,Thursday,18,Delhi
+720,Alwarpet,Severe,Rain,21,26-01-2023 19:00,1973,thunderstorm with rain,280.7,4,Thursday,19,Tamil Nadu
+721,Koramangala,Minor,Rain,21,26-01-2023 20:00,1157,light rain,283.9,1,Thursday,20,Karnataka
+722,Bandra,Minor,Fog,3,26-01-2023 21:00,3259,drizzle rain,285.7,2,Thursday,21,Maharashtra
+723,Indiranagar,Minor,Fog,5,26-01-2023 22:00,652,light rain,291,1,Thursday,22,Karnataka
+724,Connaught Place,Severe,Rain,6,26-01-2023 23:00,1427,thunderstorm with rain,288,4,Thursday,23,Delhi
+725,Salt Lake City,Moderate,Rain,2,27-01-2023 00:00,3159,light rain,302.2,1,Friday,0,West Bengal
+726,Gariahat,Severe,Fog,21,27-01-2023 01:00,2465,heavy rain,287.4,3,Friday,1,West Bengal
+727,Hinjewadi,Minor,Rain,21,27-01-2023 02:00,2721,drizzle rain,304.7,2,Friday,2,Maharashtra
+728,Banjara Hills,Moderate,Clear,3,27-01-2023 03:00,2679,drizzle rain,299.8,2,Friday,3,Telangana
+729,Jubilee Hills,Minor,Rain,5,27-01-2023 04:00,2588,drizzle rain,277.3,2,Friday,4,Telangana
+730,Anna Nagar,Moderate,Rain,6,27-01-2023 05:00,750,thunderstorm with rain,302.6,4,Friday,5,Tamil Nadu
+731,T. Nagar,Severe,Rain,2,27-01-2023 06:00,1835,drizzle rain,274.1,2,Friday,6,Tamil Nadu
+732,Civil Lines,Minor,Rain,7,27-01-2023 07:00,1512,heavy rain,298.6,3,Friday,7,Rajasthan
+733,Kalyani Nagar,Minor,Rain,9,27-01-2023 08:00,3525,thunderstorm with rain,283.3,4,Friday,8,Maharashtra
+734,Vasant Kunj,Minor,Fog,8,27-01-2023 09:00,1957,heavy rain,300.7,3,Friday,9,Delhi
+735,Alwarpet,Severe,Fog,8,27-01-2023 10:00,556,light rain,300.4,1,Friday,10,Tamil Nadu
+736,Koramangala,Moderate,Rain,9,27-01-2023 11:00,2270,light rain,298.2,1,Friday,11,Karnataka
+737,Bandra,Severe,Rain,21,27-01-2023 12:00,1985,light rain,297.7,1,Friday,12,Maharashtra
+738,Indiranagar,Minor,Fog,11,27-01-2023 13:00,2769,light rain,280.7,1,Friday,13,Karnataka
+739,Connaught Place,Moderate,Rain,10,27-01-2023 14:00,1981,heavy rain,272.8,3,Friday,14,Delhi
+740,Salt Lake City,Minor,Clear,10,27-01-2023 15:00,3371,thunderstorm with rain,284.1,4,Friday,15,West Bengal
+741,Gariahat,Moderate,Rain,10,27-01-2023 16:00,3049,thunderstorm with rain,276.1,4,Friday,16,West Bengal
+742,Hinjewadi,Severe,Rain,21,27-01-2023 17:00,3451,drizzle rain,294.3,2,Friday,17,Maharashtra
+743,Banjara Hills,Minor,Rain,21,27-01-2023 18:00,3494,heavy rain,282.1,3,Friday,18,Telangana
+744,Jubilee Hills,Minor,Rain,3,27-01-2023 19:00,3009,light rain,304.1,1,Friday,19,Telangana
+745,Anna Nagar,Minor,Rain,5,27-01-2023 20:00,3930,heavy rain,292.4,3,Friday,20,Tamil Nadu
+746,T. Nagar,Severe,Fog,6,27-01-2023 21:00,2689,drizzle rain,298.8,2,Friday,21,Tamil Nadu
+747,Civil Lines,Moderate,Fog,21,27-01-2023 22:00,1831,drizzle rain,274.6,2,Friday,22,Rajasthan
+748,Kalyani Nagar,Severe,Rain,21,27-01-2023 23:00,3016,heavy rain,300.2,3,Friday,23,Maharashtra
+749,Vasant Kunj,Minor,Rain,3,28-01-2023 00:00,1215,heavy rain,302.3,3,Saturday,0,Delhi
+750,Alwarpet,Moderate,Fog,5,28-01-2023 01:00,1548,heavy rain,287,3,Saturday,1,Tamil Nadu
+751,Koramangala,Minor,Rain,6,28-01-2023 02:00,715,thunderstorm with rain,291.2,4,Saturday,2,Karnataka
+752,Bandra,Moderate,Clear,2,28-01-2023 03:00,3287,light rain,296.8,1,Saturday,3,Maharashtra
+753,Indiranagar,Severe,Rain,7,28-01-2023 04:00,3039,heavy rain,276.1,3,Saturday,4,Karnataka
+754,Connaught Place,Minor,Rain,9,28-01-2023 05:00,535,heavy rain,287.6,3,Saturday,5,Delhi
+755,Salt Lake City,Minor,Rain,8,28-01-2023 06:00,1982,heavy rain,284,3,Saturday,6,West Bengal
+756,Gariahat,Minor,Rain,8,28-01-2023 07:00,2505,drizzle rain,275.1,2,Saturday,7,West Bengal
+757,Hinjewadi,Severe,Rain,9,28-01-2023 08:00,696,drizzle rain,282.9,2,Saturday,8,Maharashtra
+758,Banjara Hills,Moderate,Fog,21,28-01-2023 09:00,1095,thunderstorm with rain,272.4,4,Saturday,9,Telangana
+759,Jubilee Hills,Severe,Fog,11,28-01-2023 10:00,2407,light rain,270.9,1,Saturday,10,Telangana
+760,Anna Nagar,Minor,Rain,10,28-01-2023 11:00,3746,thunderstorm with rain,274.7,4,Saturday,11,Tamil Nadu
+761,T. Nagar,Moderate,Rain,10,28-01-2023 12:00,1051,light rain,303.7,1,Saturday,12,Tamil Nadu
+762,Civil Lines,Minor,Fog,10,28-01-2023 13:00,1887,drizzle rain,289.2,2,Saturday,13,Rajasthan
+763,Kalyani Nagar,Moderate,Rain,21,28-01-2023 14:00,2131,drizzle rain,303.8,2,Saturday,14,Maharashtra
+764,Vasant Kunj,Severe,Clear,21,28-01-2023 15:00,2937,drizzle rain,285.1,2,Saturday,15,Delhi
+765,Alwarpet,Minor,Rain,3,28-01-2023 16:00,3946,thunderstorm with rain,280.9,4,Saturday,16,Tamil Nadu
+766,Koramangala,Minor,Rain,5,28-01-2023 17:00,2627,heavy rain,287.7,3,Saturday,17,Karnataka
+767,Bandra,Minor,Rain,6,28-01-2023 18:00,1768,heavy rain,285.4,3,Saturday,18,Maharashtra
+768,Indiranagar,Severe,Rain,21,28-01-2023 19:00,1156,drizzle rain,273.7,2,Saturday,19,Karnataka
+769,Connaught Place,Moderate,Rain,21,28-01-2023 20:00,2938,heavy rain,292.4,3,Saturday,20,Delhi
+770,Salt Lake City,Severe,Fog,3,28-01-2023 21:00,3698,heavy rain,277.6,3,Saturday,21,West Bengal
+771,Gariahat,Minor,Fog,5,28-01-2023 22:00,1836,thunderstorm with rain,291.7,4,Saturday,22,West Bengal
+772,Hinjewadi,Moderate,Rain,6,28-01-2023 23:00,1491,light rain,292.8,1,Saturday,23,Maharashtra
+773,Banjara Hills,Minor,Rain,2,29-01-2023 00:00,3848,drizzle rain,275.3,2,Sunday,0,Telangana
+774,Jubilee Hills,Moderate,Fog,7,29-01-2023 01:00,1640,drizzle rain,272.1,2,Sunday,1,Telangana
+775,Anna Nagar,Severe,Rain,9,29-01-2023 02:00,1391,thunderstorm with rain,297.3,4,Sunday,2,Tamil Nadu
+776,T. Nagar,Minor,Clear,8,29-01-2023 03:00,1266,thunderstorm with rain,286.1,4,Sunday,3,Tamil Nadu
+777,Civil Lines,Minor,Rain,8,29-01-2023 04:00,3827,heavy rain,272,3,Sunday,4,Rajasthan
+778,Kalyani Nagar,Minor,Rain,9,29-01-2023 05:00,484,drizzle rain,304.8,2,Sunday,5,Maharashtra
+779,Vasant Kunj,Severe,Rain,21,29-01-2023 06:00,2644,light rain,272,1,Sunday,6,Delhi
+780,Alwarpet,Moderate,Rain,11,29-01-2023 07:00,211,thunderstorm with rain,294.3,4,Sunday,7,Tamil Nadu
+781,Koramangala,Severe,Rain,10,29-01-2023 08:00,1830,light rain,304.4,1,Sunday,8,Karnataka
+782,Bandra,Minor,Fog,10,29-01-2023 09:00,3573,light rain,278.4,1,Sunday,9,Maharashtra
+783,Indiranagar,Moderate,Fog,10,29-01-2023 10:00,3524,drizzle rain,275,2,Sunday,10,Karnataka
+784,Connaught Place,Minor,Rain,21,29-01-2023 11:00,2746,drizzle rain,274.2,2,Sunday,11,Delhi
+785,Salt Lake City,Moderate,Rain,21,29-01-2023 12:00,953,thunderstorm with rain,280.6,4,Sunday,12,West Bengal
+786,Gariahat,Severe,Fog,3,29-01-2023 13:00,2282,drizzle rain,273.5,2,Sunday,13,West Bengal
+787,Hinjewadi,Minor,Rain,5,29-01-2023 14:00,2974,drizzle rain,294.2,2,Sunday,14,Maharashtra
+788,Banjara Hills,Minor,Clear,6,29-01-2023 15:00,3096,drizzle rain,272.2,2,Sunday,15,Telangana
+789,Jubilee Hills,Minor,Rain,21,29-01-2023 16:00,289,light rain,287.8,1,Sunday,16,Telangana
+790,Anna Nagar,Severe,Rain,21,29-01-2023 17:00,975,thunderstorm with rain,304.9,4,Sunday,17,Tamil Nadu
+791,T. Nagar,Moderate,Rain,3,29-01-2023 18:00,2852,heavy rain,298.5,3,Sunday,18,Tamil Nadu
+792,Civil Lines,Severe,Rain,5,29-01-2023 19:00,3217,light rain,291.5,1,Sunday,19,Rajasthan
+793,Kalyani Nagar,Minor,Rain,6,29-01-2023 20:00,1825,drizzle rain,280.7,2,Sunday,20,Maharashtra
+794,Vasant Kunj,Moderate,Fog,2,29-01-2023 21:00,3269,light rain,291.8,1,Sunday,21,Delhi
+795,Alwarpet,Minor,Fog,7,29-01-2023 22:00,617,drizzle rain,288.4,2,Sunday,22,Tamil Nadu
+796,Koramangala,Moderate,Rain,9,29-01-2023 23:00,314,drizzle rain,284.9,2,Sunday,23,Karnataka
+797,Bandra,Severe,Rain,8,30-01-2023 00:00,816,light rain,274.6,1,Monday,0,Maharashtra
+798,Indiranagar,Minor,Fog,8,30-01-2023 01:00,3467,thunderstorm with rain,301,4,Monday,1,Karnataka
+799,Connaught Place,Minor,Rain,9,30-01-2023 02:00,1025,drizzle rain,285.7,2,Monday,2,Delhi
+800,Salt Lake City,Minor,Clear,21,30-01-2023 03:00,3772,thunderstorm with rain,276.8,4,Monday,3,West Bengal
+801,Gariahat,Severe,Rain,11,30-01-2023 04:00,1849,heavy rain,282.9,3,Monday,4,West Bengal
+802,Hinjewadi,Moderate,Rain,10,30-01-2023 05:00,1716,drizzle rain,284.5,2,Monday,5,Maharashtra
+803,Banjara Hills,Severe,Rain,10,30-01-2023 06:00,3346,thunderstorm with rain,299,4,Monday,6,Telangana
+804,Jubilee Hills,Minor,Rain,10,30-01-2023 07:00,612,thunderstorm with rain,295.7,4,Monday,7,Telangana
+805,Anna Nagar,Moderate,Rain,21,30-01-2023 08:00,3647,heavy rain,296.9,3,Monday,8,Tamil Nadu
+806,T. Nagar,Minor,Fog,21,30-01-2023 09:00,3691,thunderstorm with rain,270.4,4,Monday,9,Tamil Nadu
+807,Civil Lines,Moderate,Fog,3,30-01-2023 10:00,928,thunderstorm with rain,284.6,4,Monday,10,Rajasthan
+808,Kalyani Nagar,Severe,Rain,5,30-01-2023 11:00,3548,heavy rain,286.8,3,Monday,11,Maharashtra
+809,Vasant Kunj,Minor,Rain,6,30-01-2023 12:00,3268,drizzle rain,270.7,2,Monday,12,Delhi
+810,Alwarpet,Minor,Fog,21,30-01-2023 13:00,3008,thunderstorm with rain,279.1,4,Monday,13,Tamil Nadu
+811,Koramangala,Minor,Rain,21,30-01-2023 14:00,875,thunderstorm with rain,296.6,4,Monday,14,Karnataka
+812,Bandra,Severe,Clear,3,30-01-2023 15:00,3665,thunderstorm with rain,274.8,4,Monday,15,Maharashtra
+813,Indiranagar,Moderate,Rain,5,30-01-2023 16:00,2092,light rain,288.7,1,Monday,16,Karnataka
+814,Connaught Place,Severe,Rain,6,30-01-2023 17:00,2704,heavy rain,277.5,3,Monday,17,Delhi
+815,Salt Lake City,Minor,Rain,2,30-01-2023 18:00,3167,light rain,270.4,1,Monday,18,West Bengal
+816,Gariahat,Moderate,Rain,7,30-01-2023 19:00,2439,heavy rain,278.4,3,Monday,19,West Bengal
+817,Hinjewadi,Minor,Rain,9,30-01-2023 20:00,2986,drizzle rain,304.2,2,Monday,20,Maharashtra
+818,Banjara Hills,Moderate,Fog,8,30-01-2023 21:00,3960,drizzle rain,298.1,2,Monday,21,Telangana
+819,Jubilee Hills,Severe,Fog,8,30-01-2023 22:00,1322,thunderstorm with rain,303.6,4,Monday,22,Telangana
+820,Anna Nagar,Minor,Rain,9,30-01-2023 23:00,1771,heavy rain,287.1,3,Monday,23,Tamil Nadu
+821,T. Nagar,Minor,Rain,21,31-01-2023 00:00,1177,drizzle rain,273.8,2,Tuesday,0,Tamil Nadu
+822,Civil Lines,Minor,Fog,11,31-01-2023 01:00,1208,heavy rain,289.2,3,Tuesday,1,Rajasthan
+823,Kalyani Nagar,Severe,Rain,10,31-01-2023 02:00,2343,drizzle rain,285.9,2,Tuesday,2,Maharashtra
+824,Vasant Kunj,Moderate,Clear,10,31-01-2023 03:00,1887,light rain,299.6,1,Tuesday,3,Delhi
+825,Alwarpet,Severe,Rain,10,31-01-2023 04:00,2910,drizzle rain,273.4,2,Tuesday,4,Tamil Nadu
+826,Koramangala,Minor,Rain,21,31-01-2023 05:00,3461,light rain,287.1,1,Tuesday,5,Karnataka
+827,Bandra,Moderate,Rain,21,31-01-2023 06:00,236,drizzle rain,275.3,2,Tuesday,6,Maharashtra
+828,Indiranagar,Minor,Rain,3,31-01-2023 07:00,3640,thunderstorm with rain,281.4,4,Tuesday,7,Karnataka
+829,Connaught Place,Moderate,Rain,5,31-01-2023 08:00,3966,light rain,295.8,1,Tuesday,8,Delhi
+830,Salt Lake City,Severe,Fog,6,31-01-2023 09:00,1748,drizzle rain,286.7,2,Tuesday,9,West Bengal
+831,Gariahat,Minor,Fog,21,31-01-2023 10:00,2526,thunderstorm with rain,283.2,4,Tuesday,10,West Bengal
+832,Hinjewadi,Minor,Rain,21,31-01-2023 11:00,2464,light rain,283.8,1,Tuesday,11,Maharashtra
+833,Banjara Hills,Minor,Rain,3,31-01-2023 12:00,3114,thunderstorm with rain,286.1,4,Tuesday,12,Telangana
+834,Jubilee Hills,Severe,Fog,5,31-01-2023 13:00,1072,heavy rain,297.5,3,Tuesday,13,Telangana
+835,Anna Nagar,Moderate,Rain,6,31-01-2023 14:00,2021,heavy rain,301.2,3,Tuesday,14,Tamil Nadu
+836,T. Nagar,Severe,Clear,2,31-01-2023 15:00,1496,light rain,303.4,1,Tuesday,15,Tamil Nadu
+837,Civil Lines,Minor,Rain,7,31-01-2023 16:00,2309,drizzle rain,297.5,2,Tuesday,16,Rajasthan
+838,Kalyani Nagar,Moderate,Rain,9,31-01-2023 17:00,795,light rain,281,1,Tuesday,17,Maharashtra
+839,Vasant Kunj,Minor,Rain,8,31-01-2023 18:00,2103,thunderstorm with rain,294.1,4,Tuesday,18,Delhi
+840,Alwarpet,Moderate,Rain,8,31-01-2023 19:00,928,drizzle rain,285.3,2,Tuesday,19,Tamil Nadu
+841,Koramangala,Severe,Rain,9,31-01-2023 20:00,1565,heavy rain,278.9,3,Tuesday,20,Karnataka
+842,Bandra,Minor,Fog,21,31-01-2023 21:00,596,drizzle rain,299.4,2,Tuesday,21,Maharashtra
+843,Indiranagar,Minor,Fog,11,31-01-2023 22:00,898,heavy rain,271.3,3,Tuesday,22,Karnataka
+844,Connaught Place,Minor,Rain,10,31-01-2023 23:00,3290,drizzle rain,301.6,2,Tuesday,23,Delhi
+845,Salt Lake City,Severe,Rain,10,01-02-2023 00:00,2424,drizzle rain,286.2,2,Wednesday,0,West Bengal
+846,Gariahat,Moderate,Fog,10,01-02-2023 01:00,1835,drizzle rain,292.3,2,Wednesday,1,West Bengal
+847,Hinjewadi,Severe,Rain,21,01-02-2023 02:00,595,thunderstorm with rain,293.1,4,Wednesday,2,Maharashtra
+848,Banjara Hills,Minor,Clear,21,01-02-2023 03:00,2692,thunderstorm with rain,301.3,4,Wednesday,3,Telangana
+849,Jubilee Hills,Moderate,Rain,3,01-02-2023 04:00,3504,light rain,292.3,1,Wednesday,4,Telangana
+850,Anna Nagar,Minor,Rain,5,01-02-2023 05:00,275,light rain,291.5,1,Wednesday,5,Tamil Nadu
+851,T. Nagar,Moderate,Rain,6,01-02-2023 06:00,464,heavy rain,272.3,3,Wednesday,6,Tamil Nadu
+852,Civil Lines,Severe,Rain,21,01-02-2023 07:00,2702,thunderstorm with rain,288.1,4,Wednesday,7,Rajasthan
+853,Kalyani Nagar,Minor,Rain,21,01-02-2023 08:00,2019,heavy rain,275.3,3,Wednesday,8,Maharashtra
+854,Vasant Kunj,Minor,Fog,3,01-02-2023 09:00,917,light rain,295.8,1,Wednesday,9,Delhi
+855,Alwarpet,Minor,Fog,5,01-02-2023 10:00,2982,heavy rain,287.9,3,Wednesday,10,Tamil Nadu
+856,Koramangala,Severe,Rain,6,01-02-2023 11:00,3655,light rain,293.8,1,Wednesday,11,Karnataka
+857,Bandra,Moderate,Rain,2,01-02-2023 12:00,3835,thunderstorm with rain,271.5,4,Wednesday,12,Maharashtra
+858,Indiranagar,Severe,Fog,7,01-02-2023 13:00,1050,drizzle rain,273,2,Wednesday,13,Karnataka
+859,Connaught Place,Minor,Rain,9,01-02-2023 14:00,3777,thunderstorm with rain,295.1,4,Wednesday,14,Delhi
+860,Salt Lake City,Moderate,Clear,8,01-02-2023 15:00,1590,heavy rain,272.5,3,Wednesday,15,West Bengal
+861,Gariahat,Minor,Rain,8,01-02-2023 16:00,343,heavy rain,272.5,3,Wednesday,16,West Bengal
+862,Hinjewadi,Moderate,Rain,9,01-02-2023 17:00,1084,thunderstorm with rain,270.4,4,Wednesday,17,Maharashtra
+863,Banjara Hills,Severe,Rain,21,01-02-2023 18:00,3340,thunderstorm with rain,303.5,4,Wednesday,18,Telangana
+864,Jubilee Hills,Minor,Rain,11,01-02-2023 19:00,3370,light rain,295.8,1,Wednesday,19,Telangana
+865,Anna Nagar,Minor,Rain,10,01-02-2023 20:00,595,heavy rain,282.4,3,Wednesday,20,Tamil Nadu
+866,T. Nagar,Minor,Fog,10,01-02-2023 21:00,3296,heavy rain,280.4,3,Wednesday,21,Tamil Nadu
+867,Civil Lines,Severe,Fog,10,01-02-2023 22:00,3195,thunderstorm with rain,282.2,4,Wednesday,22,Rajasthan
+868,Kalyani Nagar,Moderate,Rain,21,01-02-2023 23:00,3138,drizzle rain,297.1,2,Wednesday,23,Maharashtra
+869,Vasant Kunj,Severe,Rain,21,02-02-2023 00:00,1692,heavy rain,293.1,3,Thursday,0,Delhi
+870,Alwarpet,Minor,Fog,3,02-02-2023 01:00,3755,drizzle rain,276.5,2,Thursday,1,Tamil Nadu
+871,Koramangala,Moderate,Rain,5,02-02-2023 02:00,3836,thunderstorm with rain,276.1,4,Thursday,2,Karnataka
+872,Bandra,Minor,Clear,6,02-02-2023 03:00,3422,thunderstorm with rain,273.4,4,Thursday,3,Maharashtra
+873,Indiranagar,Moderate,Rain,21,02-02-2023 04:00,1367,light rain,293.1,1,Thursday,4,Karnataka
+874,Connaught Place,Severe,Rain,21,02-02-2023 05:00,2816,heavy rain,296.8,3,Thursday,5,Delhi
+875,Salt Lake City,Minor,Rain,3,02-02-2023 06:00,1262,drizzle rain,279.3,2,Thursday,6,West Bengal
+876,Gariahat,Minor,Rain,5,02-02-2023 07:00,2356,light rain,270.7,1,Thursday,7,West Bengal
+877,Hinjewadi,Minor,Rain,6,02-02-2023 08:00,3964,heavy rain,272.9,3,Thursday,8,Maharashtra
+878,Banjara Hills,Severe,Fog,2,02-02-2023 09:00,1265,light rain,303.9,1,Thursday,9,Telangana
+879,Jubilee Hills,Moderate,Fog,7,02-02-2023 10:00,1409,thunderstorm with rain,280.3,4,Thursday,10,Telangana
+880,Anna Nagar,Severe,Rain,9,02-02-2023 11:00,3182,heavy rain,296.9,3,Thursday,11,Tamil Nadu
+881,T. Nagar,Minor,Rain,8,02-02-2023 12:00,2645,light rain,291.9,1,Thursday,12,Tamil Nadu
+882,Civil Lines,Moderate,Fog,8,02-02-2023 13:00,3494,light rain,283.4,1,Thursday,13,Rajasthan
+883,Kalyani Nagar,Minor,Rain,9,02-02-2023 14:00,833,drizzle rain,277.2,2,Thursday,14,Maharashtra
+884,Vasant Kunj,Moderate,Clear,21,02-02-2023 15:00,1356,light rain,274.2,1,Thursday,15,Delhi
+885,Alwarpet,Severe,Rain,11,02-02-2023 16:00,3434,heavy rain,291.5,3,Thursday,16,Tamil Nadu
+886,Koramangala,Minor,Rain,10,02-02-2023 17:00,1438,heavy rain,297.1,3,Thursday,17,Karnataka
+887,Bandra,Minor,Rain,10,02-02-2023 18:00,932,drizzle rain,292.5,2,Thursday,18,Maharashtra
+888,Indiranagar,Minor,Rain,10,02-02-2023 19:00,434,heavy rain,288.6,3,Thursday,19,Karnataka
+889,Connaught Place,Severe,Rain,21,02-02-2023 20:00,2905,thunderstorm with rain,271.5,4,Thursday,20,Delhi
+890,Salt Lake City,Moderate,Fog,21,02-02-2023 21:00,950,heavy rain,303.9,3,Thursday,21,West Bengal
+891,Gariahat,Severe,Fog,3,02-02-2023 22:00,2835,heavy rain,298,3,Thursday,22,West Bengal
+892,Hinjewadi,Minor,Rain,5,02-02-2023 23:00,3280,light rain,280.2,1,Thursday,23,Maharashtra
+893,Banjara Hills,Moderate,Rain,6,03-02-2023 00:00,3345,light rain,304.3,1,Friday,0,Telangana
+894,Jubilee Hills,Minor,Fog,21,03-02-2023 01:00,1153,heavy rain,291.1,3,Friday,1,Telangana
+895,Anna Nagar,Moderate,Rain,21,03-02-2023 02:00,2739,drizzle rain,290.4,2,Friday,2,Tamil Nadu
+896,T. Nagar,Severe,Clear,3,03-02-2023 03:00,3160,light rain,296.2,1,Friday,3,Tamil Nadu
+897,Civil Lines,Minor,Rain,5,03-02-2023 04:00,3524,drizzle rain,298.4,2,Friday,4,Rajasthan
+898,Kalyani Nagar,Minor,Rain,6,03-02-2023 05:00,3501,heavy rain,293,3,Friday,5,Maharashtra
+899,Vasant Kunj,Minor,Rain,2,03-02-2023 06:00,1742,heavy rain,274.5,3,Friday,6,Delhi
+900,Alwarpet,Severe,Rain,7,03-02-2023 07:00,1397,thunderstorm with rain,281.8,4,Friday,7,Tamil Nadu
+901,Koramangala,Moderate,Rain,9,03-02-2023 08:00,1876,light rain,302.5,1,Friday,8,Karnataka
+902,Bandra,Severe,Fog,8,03-02-2023 09:00,1391,heavy rain,277.9,3,Friday,9,Maharashtra
+903,Indiranagar,Minor,Fog,8,03-02-2023 10:00,2417,thunderstorm with rain,283,4,Friday,10,Karnataka
+904,Connaught Place,Moderate,Rain,9,03-02-2023 11:00,1616,light rain,285.1,1,Friday,11,Delhi
+905,Salt Lake City,Minor,Rain,21,03-02-2023 12:00,3193,heavy rain,285.4,3,Friday,12,West Bengal
+906,Gariahat,Moderate,Fog,11,03-02-2023 13:00,3042,heavy rain,291.5,3,Friday,13,West Bengal
+907,Hinjewadi,Severe,Rain,10,03-02-2023 14:00,2881,light rain,303,1,Friday,14,Maharashtra
+908,Banjara Hills,Minor,Clear,10,03-02-2023 15:00,1417,light rain,278.4,1,Friday,15,Telangana
+909,Jubilee Hills,Minor,Rain,10,03-02-2023 16:00,1740,light rain,274.3,1,Friday,16,Telangana
+910,Anna Nagar,Minor,Rain,21,03-02-2023 17:00,2276,heavy rain,276.9,3,Friday,17,Tamil Nadu
+911,T. Nagar,Severe,Rain,21,03-02-2023 18:00,3436,heavy rain,301,3,Friday,18,Tamil Nadu
+912,Civil Lines,Moderate,Rain,3,03-02-2023 19:00,1645,thunderstorm with rain,292.6,4,Friday,19,Rajasthan
+913,Kalyani Nagar,Severe,Rain,5,03-02-2023 20:00,2586,drizzle rain,280,2,Friday,20,Maharashtra
+914,Vasant Kunj,Minor,Fog,6,03-02-2023 21:00,3919,light rain,298.6,1,Friday,21,Delhi
+915,Alwarpet,Moderate,Fog,21,03-02-2023 22:00,1719,heavy rain,300.1,3,Friday,22,Tamil Nadu
+916,Koramangala,Minor,Rain,21,03-02-2023 23:00,1588,heavy rain,299.6,3,Friday,23,Karnataka
+917,Bandra,Moderate,Rain,3,04-02-2023 00:00,2056,light rain,302.2,1,Saturday,0,Maharashtra
+918,Indiranagar,Severe,Fog,5,04-02-2023 01:00,1565,drizzle rain,278.8,2,Saturday,1,Karnataka
+919,Connaught Place,Minor,Rain,6,04-02-2023 02:00,699,light rain,296.4,1,Saturday,2,Delhi
+920,Salt Lake City,Minor,Clear,2,04-02-2023 03:00,1880,drizzle rain,286.1,2,Saturday,3,West Bengal
+921,Gariahat,Minor,Rain,7,04-02-2023 04:00,710,heavy rain,299.5,3,Saturday,4,West Bengal
+922,Hinjewadi,Severe,Rain,9,04-02-2023 05:00,3598,drizzle rain,295.5,2,Saturday,5,Maharashtra
+923,Banjara Hills,Moderate,Rain,8,04-02-2023 06:00,416,thunderstorm with rain,297.2,4,Saturday,6,Telangana
+924,Jubilee Hills,Severe,Rain,8,04-02-2023 07:00,1524,heavy rain,293,3,Saturday,7,Telangana
+925,Anna Nagar,Minor,Rain,9,04-02-2023 08:00,1355,thunderstorm with rain,276.2,4,Saturday,8,Tamil Nadu
+926,T. Nagar,Moderate,Fog,21,04-02-2023 09:00,2027,light rain,289.1,1,Saturday,9,Tamil Nadu
+927,Civil Lines,Minor,Fog,11,04-02-2023 10:00,3341,light rain,304.5,1,Saturday,10,Rajasthan
+928,Kalyani Nagar,Moderate,Rain,10,04-02-2023 11:00,3523,light rain,302.8,1,Saturday,11,Maharashtra
+929,Vasant Kunj,Severe,Rain,10,04-02-2023 12:00,3686,drizzle rain,271.5,2,Saturday,12,Delhi
+930,Alwarpet,Minor,Fog,10,04-02-2023 13:00,2010,heavy rain,275.8,3,Saturday,13,Tamil Nadu
+931,Koramangala,Minor,Rain,21,04-02-2023 14:00,2692,light rain,274.6,1,Saturday,14,Karnataka
+932,Bandra,Minor,Clear,21,04-02-2023 15:00,3123,light rain,295.4,1,Saturday,15,Maharashtra
+933,Indiranagar,Severe,Rain,3,04-02-2023 16:00,1405,heavy rain,298.6,3,Saturday,16,Karnataka
+934,Connaught Place,Moderate,Rain,5,04-02-2023 17:00,2414,light rain,277.5,1,Saturday,17,Delhi
+935,Salt Lake City,Severe,Rain,6,04-02-2023 18:00,290,thunderstorm with rain,287.7,4,Saturday,18,West Bengal
+936,Gariahat,Minor,Rain,21,04-02-2023 19:00,913,heavy rain,299.4,3,Saturday,19,West Bengal
+937,Hinjewadi,Moderate,Rain,21,04-02-2023 20:00,2081,heavy rain,295.6,3,Saturday,20,Maharashtra
+938,Banjara Hills,Minor,Fog,3,04-02-2023 21:00,3802,heavy rain,289,3,Saturday,21,Telangana
+939,Jubilee Hills,Moderate,Fog,5,04-02-2023 22:00,238,thunderstorm with rain,290.7,4,Saturday,22,Telangana
+940,Anna Nagar,Severe,Rain,6,04-02-2023 23:00,3397,heavy rain,287.8,3,Saturday,23,Tamil Nadu
+941,T. Nagar,Minor,Rain,2,05-02-2023 00:00,3722,thunderstorm with rain,280.4,4,Sunday,0,Tamil Nadu
+942,Civil Lines,Minor,Fog,7,05-02-2023 01:00,372,heavy rain,289.8,3,Sunday,1,Rajasthan
+943,Kalyani Nagar,Minor,Rain,9,05-02-2023 02:00,852,drizzle rain,294.1,2,Sunday,2,Maharashtra
+944,Vasant Kunj,Severe,Clear,8,05-02-2023 03:00,953,light rain,300.6,1,Sunday,3,Delhi
+945,Alwarpet,Moderate,Rain,8,05-02-2023 04:00,1443,drizzle rain,292.3,2,Sunday,4,Tamil Nadu
+946,Koramangala,Severe,Rain,9,05-02-2023 05:00,3909,light rain,296.6,1,Sunday,5,Karnataka
+947,Bandra,Minor,Rain,21,05-02-2023 06:00,1281,thunderstorm with rain,275.6,4,Sunday,6,Maharashtra
+948,Indiranagar,Moderate,Rain,11,05-02-2023 07:00,1883,drizzle rain,286.2,2,Sunday,7,Karnataka
+949,Connaught Place,Minor,Rain,10,05-02-2023 08:00,2723,heavy rain,270.3,3,Sunday,8,Delhi
+950,Salt Lake City,Moderate,Fog,10,05-02-2023 09:00,655,light rain,278.6,1,Sunday,9,West Bengal
+951,Gariahat,Severe,Fog,10,05-02-2023 10:00,1028,light rain,295.4,1,Sunday,10,West Bengal
+952,Hinjewadi,Minor,Rain,21,05-02-2023 11:00,1094,drizzle rain,304.7,2,Sunday,11,Maharashtra
+953,Banjara Hills,Minor,Rain,21,05-02-2023 12:00,1584,thunderstorm with rain,273.5,4,Sunday,12,Telangana
+954,Jubilee Hills,Minor,Fog,3,05-02-2023 13:00,2158,drizzle rain,284.1,2,Sunday,13,Telangana
+955,Anna Nagar,Severe,Rain,5,05-02-2023 14:00,3272,thunderstorm with rain,298,4,Sunday,14,Tamil Nadu
+956,T. Nagar,Moderate,Clear,6,05-02-2023 15:00,2634,thunderstorm with rain,277.1,4,Sunday,15,Tamil Nadu
+957,Civil Lines,Severe,Rain,21,05-02-2023 16:00,2196,light rain,289.4,1,Sunday,16,Rajasthan
+958,Kalyani Nagar,Minor,Rain,21,05-02-2023 17:00,2595,drizzle rain,295.7,2,Sunday,17,Maharashtra
+959,Vasant Kunj,Moderate,Rain,3,05-02-2023 18:00,389,drizzle rain,291.6,2,Sunday,18,Delhi
+960,Alwarpet,Minor,Rain,5,05-02-2023 19:00,704,thunderstorm with rain,276.6,4,Sunday,19,Tamil Nadu
+961,Koramangala,Moderate,Rain,6,05-02-2023 20:00,1414,drizzle rain,282.4,2,Sunday,20,Karnataka
+962,Bandra,Severe,Fog,2,05-02-2023 21:00,1731,heavy rain,297.4,3,Sunday,21,Maharashtra
+963,Indiranagar,Minor,Fog,7,05-02-2023 22:00,3640,heavy rain,289.4,3,Sunday,22,Karnataka
+964,Connaught Place,Minor,Rain,9,05-02-2023 23:00,3680,drizzle rain,270.2,2,Sunday,23,Delhi
+965,Salt Lake City,Minor,Rain,8,06-02-2023 00:00,1023,drizzle rain,296.6,2,Monday,0,West Bengal
+966,Gariahat,Severe,Fog,8,06-02-2023 01:00,1128,thunderstorm with rain,271.2,4,Monday,1,West Bengal
+967,Hinjewadi,Moderate,Rain,9,06-02-2023 02:00,1133,heavy rain,296.1,3,Monday,2,Maharashtra
+968,Banjara Hills,Severe,Clear,21,06-02-2023 03:00,1340,heavy rain,277.1,3,Monday,3,Telangana
+969,Jubilee Hills,Minor,Rain,11,06-02-2023 04:00,333,light rain,303.5,1,Monday,4,Telangana
+970,Anna Nagar,Moderate,Rain,10,06-02-2023 05:00,2305,thunderstorm with rain,282.9,4,Monday,5,Tamil Nadu
+971,T. Nagar,Minor,Rain,10,06-02-2023 06:00,3827,light rain,281.4,1,Monday,6,Tamil Nadu
+972,Civil Lines,Moderate,Rain,10,06-02-2023 07:00,884,heavy rain,275.2,3,Monday,7,Rajasthan
+973,Kalyani Nagar,Severe,Rain,21,06-02-2023 08:00,2919,thunderstorm with rain,280.7,4,Monday,8,Maharashtra
+974,Vasant Kunj,Minor,Fog,21,06-02-2023 09:00,2420,drizzle rain,300.7,2,Monday,9,Delhi
+975,Alwarpet,Minor,Fog,3,06-02-2023 10:00,2052,thunderstorm with rain,304.9,4,Monday,10,Tamil Nadu
+976,Koramangala,Minor,Rain,5,06-02-2023 11:00,1014,drizzle rain,282.9,2,Monday,11,Karnataka
+977,Bandra,Severe,Rain,6,06-02-2023 12:00,1372,drizzle rain,285.7,2,Monday,12,Maharashtra
+978,Indiranagar,Moderate,Fog,21,06-02-2023 13:00,279,thunderstorm with rain,295.3,4,Monday,13,Karnataka
+979,Connaught Place,Severe,Rain,21,06-02-2023 14:00,3133,drizzle rain,301,2,Monday,14,Delhi
+980,Salt Lake City,Minor,Clear,3,06-02-2023 15:00,3484,light rain,290.8,1,Monday,15,West Bengal
+981,Gariahat,Moderate,Rain,5,06-02-2023 16:00,402,heavy rain,283.7,3,Monday,16,West Bengal
+982,Hinjewadi,Minor,Rain,6,06-02-2023 17:00,3011,drizzle rain,284.4,2,Monday,17,Maharashtra
+983,Banjara Hills,Moderate,Rain,2,06-02-2023 18:00,1452,light rain,294.3,1,Monday,18,Telangana
+984,Jubilee Hills,Severe,Rain,7,06-02-2023 19:00,1899,drizzle rain,270.1,2,Monday,19,Telangana
+985,Anna Nagar,Minor,Rain,9,06-02-2023 20:00,1450,heavy rain,291.7,3,Monday,20,Tamil Nadu
+986,T. Nagar,Minor,Fog,8,06-02-2023 21:00,1882,light rain,282.4,1,Monday,21,Tamil Nadu
+987,Civil Lines,Minor,Fog,8,06-02-2023 22:00,1755,heavy rain,297.8,3,Monday,22,Rajasthan
+988,Kalyani Nagar,Severe,Rain,9,06-02-2023 23:00,3712,heavy rain,273.3,3,Monday,23,Maharashtra
+989,Vasant Kunj,Moderate,Rain,21,07-02-2023 00:00,3673,light rain,290.6,1,Tuesday,0,Delhi
+990,Alwarpet,Severe,Fog,11,07-02-2023 01:00,2294,light rain,286.8,1,Tuesday,1,Tamil Nadu
+991,Koramangala,Minor,Rain,10,07-02-2023 02:00,1456,light rain,292.5,1,Tuesday,2,Karnataka
+992,Bandra,Moderate,Clear,10,07-02-2023 03:00,3576,thunderstorm with rain,272.3,4,Tuesday,3,Maharashtra
+993,Indiranagar,Minor,Rain,10,07-02-2023 04:00,1749,light rain,290.3,1,Tuesday,4,Karnataka
+994,Connaught Place,Moderate,Rain,21,07-02-2023 05:00,1366,light rain,289.7,1,Tuesday,5,Delhi
+995,Salt Lake City,Severe,Rain,21,07-02-2023 06:00,3686,light rain,289.6,1,Tuesday,6,West Bengal
+996,Gariahat,Minor,Rain,3,07-02-2023 07:00,3784,light rain,291.1,1,Tuesday,7,West Bengal
+997,Hinjewadi,Minor,Rain,5,07-02-2023 08:00,1596,drizzle rain,293.7,2,Tuesday,8,Maharashtra
+998,Banjara Hills,Minor,Fog,6,07-02-2023 09:00,3837,thunderstorm with rain,298.2,4,Tuesday,9,Telangana
+999,Jubilee Hills,Severe,Fog,21,07-02-2023 10:00,3530,heavy rain,279.4,3,Tuesday,10,Telangana
+1000,Anna Nagar,Moderate,Rain,21,07-02-2023 11:00,2903,light rain,298.9,1,Tuesday,11,Tamil Nadu
+1001,T. Nagar,Severe,Rain,3,07-02-2023 12:00,670,drizzle rain,287.4,2,Tuesday,12,Tamil Nadu
+1002,Civil Lines,Minor,Fog,5,07-02-2023 13:00,3218,drizzle rain,272.7,2,Tuesday,13,Rajasthan
+1003,Kalyani Nagar,Moderate,Rain,6,07-02-2023 14:00,1235,drizzle rain,272,2,Tuesday,14,Maharashtra
+1004,Vasant Kunj,Minor,Clear,2,07-02-2023 15:00,1553,heavy rain,281.7,3,Tuesday,15,Delhi
+1005,Alwarpet,Moderate,Rain,7,07-02-2023 16:00,2983,light rain,297.5,1,Tuesday,16,Tamil Nadu
+1006,Koramangala,Severe,Rain,9,07-02-2023 17:00,3031,thunderstorm with rain,294.8,4,Tuesday,17,Karnataka
+1007,Bandra,Minor,Rain,8,07-02-2023 18:00,1167,thunderstorm with rain,297.6,4,Tuesday,18,Maharashtra
+1008,Indiranagar,Minor,Rain,8,07-02-2023 19:00,557,drizzle rain,288.1,2,Tuesday,19,Karnataka
+1009,Connaught Place,Minor,Rain,9,07-02-2023 20:00,3219,heavy rain,285.4,3,Tuesday,20,Delhi
+1010,Salt Lake City,Severe,Fog,21,07-02-2023 21:00,3679,heavy rain,275.2,3,Tuesday,21,West Bengal
+1011,Gariahat,Moderate,Fog,11,07-02-2023 22:00,867,heavy rain,281.5,3,Tuesday,22,West Bengal
+1012,Hinjewadi,Severe,Rain,10,07-02-2023 23:00,572,thunderstorm with rain,285.2,4,Tuesday,23,Maharashtra
+1013,Banjara Hills,Minor,Rain,10,08-02-2023 00:00,1231,drizzle rain,273.1,2,Wednesday,0,Telangana
+1014,Jubilee Hills,Moderate,Fog,10,08-02-2023 01:00,1345,light rain,277.7,1,Wednesday,1,Telangana
+1015,Anna Nagar,Minor,Rain,21,08-02-2023 02:00,1571,thunderstorm with rain,290.9,4,Wednesday,2,Tamil Nadu
+1016,T. Nagar,Moderate,Clear,21,08-02-2023 03:00,2923,drizzle rain,295.7,2,Wednesday,3,Tamil Nadu
+1017,Civil Lines,Severe,Rain,3,08-02-2023 04:00,289,drizzle rain,304.9,2,Wednesday,4,Rajasthan
+1018,Kalyani Nagar,Minor,Rain,5,08-02-2023 05:00,3919,light rain,302.7,1,Wednesday,5,Maharashtra
+1019,Vasant Kunj,Minor,Rain,6,08-02-2023 06:00,2945,light rain,292.5,1,Wednesday,6,Delhi
+1020,Alwarpet,Minor,Rain,21,08-02-2023 07:00,3587,light rain,284.7,1,Wednesday,7,Tamil Nadu
+1021,Koramangala,Severe,Rain,21,08-02-2023 08:00,3449,heavy rain,292.3,3,Wednesday,8,Karnataka
+1022,Bandra,Moderate,Fog,3,08-02-2023 09:00,739,light rain,297.5,1,Wednesday,9,Maharashtra
+1023,Indiranagar,Severe,Fog,5,08-02-2023 10:00,2979,drizzle rain,274.1,2,Wednesday,10,Karnataka
+1024,Connaught Place,Minor,Rain,6,08-02-2023 11:00,1068,light rain,284.3,1,Wednesday,11,Delhi
+1025,Salt Lake City,Moderate,Rain,2,08-02-2023 12:00,240,drizzle rain,299.4,2,Wednesday,12,West Bengal
+1026,Gariahat,Minor,Fog,7,08-02-2023 13:00,939,thunderstorm with rain,283.4,4,Wednesday,13,West Bengal
+1027,Hinjewadi,Moderate,Rain,9,08-02-2023 14:00,3975,heavy rain,290,3,Wednesday,14,Maharashtra
+1028,Banjara Hills,Severe,Clear,8,08-02-2023 15:00,2146,thunderstorm with rain,290.6,4,Wednesday,15,Telangana
+1029,Jubilee Hills,Minor,Rain,8,08-02-2023 16:00,2749,thunderstorm with rain,276.5,4,Wednesday,16,Telangana
+1030,Anna Nagar,Minor,Rain,9,08-02-2023 17:00,3206,drizzle rain,282.7,2,Wednesday,17,Tamil Nadu
+1031,T. Nagar,Minor,Rain,21,08-02-2023 18:00,3416,thunderstorm with rain,281.7,4,Wednesday,18,Tamil Nadu
+1032,Civil Lines,Severe,Rain,11,08-02-2023 19:00,1424,drizzle rain,270.9,2,Wednesday,19,Rajasthan
+1033,Kalyani Nagar,Moderate,Rain,10,08-02-2023 20:00,1128,light rain,270.8,1,Wednesday,20,Maharashtra
+1034,Vasant Kunj,Severe,Fog,10,08-02-2023 21:00,2236,light rain,299.1,1,Wednesday,21,Delhi
+1035,Alwarpet,Minor,Fog,10,08-02-2023 22:00,3995,drizzle rain,279.6,2,Wednesday,22,Tamil Nadu
+1036,Koramangala,Moderate,Rain,21,08-02-2023 23:00,2708,light rain,288.1,1,Wednesday,23,Karnataka
+1037,Bandra,Minor,Rain,21,09-02-2023 00:00,2979,heavy rain,280.5,3,Thursday,0,Maharashtra
+1038,Indiranagar,Moderate,Fog,3,09-02-2023 01:00,2999,thunderstorm with rain,302.9,4,Thursday,1,Karnataka
+1039,Connaught Place,Severe,Rain,5,09-02-2023 02:00,1124,heavy rain,279.1,3,Thursday,2,Delhi
+1040,Salt Lake City,Minor,Clear,6,09-02-2023 03:00,3156,thunderstorm with rain,285,4,Thursday,3,West Bengal
+1041,Gariahat,Minor,Rain,21,09-02-2023 04:00,1781,light rain,300.5,1,Thursday,4,West Bengal
+1042,Hinjewadi,Minor,Rain,21,09-02-2023 05:00,3818,heavy rain,299.5,3,Thursday,5,Maharashtra
+1043,Banjara Hills,Severe,Rain,3,09-02-2023 06:00,3524,light rain,276.5,1,Thursday,6,Telangana
+1044,Jubilee Hills,Moderate,Rain,5,09-02-2023 07:00,589,thunderstorm with rain,298.1,4,Thursday,7,Telangana
+1045,Anna Nagar,Severe,Rain,6,09-02-2023 08:00,1817,drizzle rain,286,2,Thursday,8,Tamil Nadu
+1046,T. Nagar,Minor,Fog,2,09-02-2023 09:00,3130,drizzle rain,286.9,2,Thursday,9,Tamil Nadu
+1047,Civil Lines,Moderate,Fog,7,09-02-2023 10:00,455,heavy rain,274.7,3,Thursday,10,Rajasthan
+1048,Kalyani Nagar,Minor,Rain,9,09-02-2023 11:00,908,light rain,272.8,1,Thursday,11,Maharashtra
+1049,Vasant Kunj,Moderate,Rain,8,09-02-2023 12:00,2038,light rain,295.5,1,Thursday,12,Delhi
+1050,Alwarpet,Severe,Fog,8,09-02-2023 13:00,2144,heavy rain,287.4,3,Thursday,13,Tamil Nadu
+1051,Koramangala,Minor,Rain,9,09-02-2023 14:00,2697,drizzle rain,285.3,2,Thursday,14,Karnataka
+1052,Bandra,Minor,Clear,21,09-02-2023 15:00,209,thunderstorm with rain,295.5,4,Thursday,15,Maharashtra
+1053,Indiranagar,Minor,Rain,11,09-02-2023 16:00,3071,heavy rain,296.8,3,Thursday,16,Karnataka
+1054,Connaught Place,Severe,Rain,10,09-02-2023 17:00,997,thunderstorm with rain,275.6,4,Thursday,17,Delhi
+1055,Salt Lake City,Moderate,Rain,10,09-02-2023 18:00,3513,drizzle rain,291.4,2,Thursday,18,West Bengal
+1056,Gariahat,Severe,Rain,10,09-02-2023 19:00,3522,light rain,274.7,1,Thursday,19,West Bengal
+1057,Hinjewadi,Minor,Rain,21,09-02-2023 20:00,1076,drizzle rain,296.3,2,Thursday,20,Maharashtra
+1058,Banjara Hills,Moderate,Fog,21,09-02-2023 21:00,1228,heavy rain,293,3,Thursday,21,Telangana
+1059,Jubilee Hills,Minor,Fog,3,09-02-2023 22:00,3390,light rain,303.5,1,Thursday,22,Telangana
+1060,Anna Nagar,Moderate,Rain,5,09-02-2023 23:00,1215,heavy rain,272.4,3,Thursday,23,Tamil Nadu
+1061,T. Nagar,Severe,Rain,6,10-02-2023 00:00,2024,heavy rain,272,3,Friday,0,Tamil Nadu
+1062,Civil Lines,Minor,Fog,21,10-02-2023 01:00,573,drizzle rain,279.9,2,Friday,1,Rajasthan
+1063,Kalyani Nagar,Minor,Rain,21,10-02-2023 02:00,3336,heavy rain,279.2,3,Friday,2,Maharashtra
+1064,Vasant Kunj,Minor,Clear,3,10-02-2023 03:00,2393,drizzle rain,278.6,2,Friday,3,Delhi
+1065,Alwarpet,Severe,Rain,5,10-02-2023 04:00,423,light rain,301.7,1,Friday,4,Tamil Nadu
+1066,Koramangala,Moderate,Rain,6,10-02-2023 05:00,1462,drizzle rain,278.7,2,Friday,5,Karnataka
+1067,Bandra,Severe,Rain,2,10-02-2023 06:00,2424,light rain,279.5,1,Friday,6,Maharashtra
+1068,Indiranagar,Minor,Rain,7,10-02-2023 07:00,2002,drizzle rain,296.6,2,Friday,7,Karnataka
+1069,Connaught Place,Moderate,Rain,9,10-02-2023 08:00,1052,thunderstorm with rain,285.7,4,Friday,8,Delhi
+1070,Salt Lake City,Minor,Fog,8,10-02-2023 09:00,3553,thunderstorm with rain,297.2,4,Friday,9,West Bengal
+1071,Gariahat,Moderate,Fog,8,10-02-2023 10:00,262,heavy rain,272.3,3,Friday,10,West Bengal
+1072,Hinjewadi,Severe,Rain,9,10-02-2023 11:00,1440,drizzle rain,287.1,2,Friday,11,Maharashtra
+1073,Banjara Hills,Minor,Rain,21,10-02-2023 12:00,3074,drizzle rain,271.2,2,Friday,12,Telangana
+1074,Jubilee Hills,Minor,Fog,11,10-02-2023 13:00,3042,light rain,272.2,1,Friday,13,Telangana
+1075,Anna Nagar,Minor,Rain,10,10-02-2023 14:00,888,heavy rain,301.7,3,Friday,14,Tamil Nadu
+1076,T. Nagar,Severe,Clear,10,10-02-2023 15:00,1684,drizzle rain,274.9,2,Friday,15,Tamil Nadu
+1077,Civil Lines,Moderate,Rain,10,10-02-2023 16:00,1833,heavy rain,288.6,3,Friday,16,Rajasthan
+1078,Kalyani Nagar,Severe,Rain,21,10-02-2023 17:00,2352,thunderstorm with rain,284.4,4,Friday,17,Maharashtra
+1079,Vasant Kunj,Minor,Rain,21,10-02-2023 18:00,3370,drizzle rain,282.2,2,Friday,18,Delhi
+1080,Alwarpet,Moderate,Rain,3,10-02-2023 19:00,710,drizzle rain,301.5,2,Friday,19,Tamil Nadu
+1081,Koramangala,Minor,Rain,5,10-02-2023 20:00,584,heavy rain,270.8,3,Friday,20,Karnataka
+1082,Bandra,Moderate,Fog,6,10-02-2023 21:00,604,drizzle rain,293.2,2,Friday,21,Maharashtra
+1083,Indiranagar,Severe,Fog,21,10-02-2023 22:00,3070,heavy rain,303.7,3,Friday,22,Karnataka
+1084,Connaught Place,Minor,Rain,21,10-02-2023 23:00,717,drizzle rain,289.6,2,Friday,23,Delhi
+1085,Salt Lake City,Minor,Rain,3,11-02-2023 00:00,675,light rain,302.8,1,Saturday,0,West Bengal
+1086,Gariahat,Minor,Fog,5,11-02-2023 01:00,2200,heavy rain,271.8,3,Saturday,1,West Bengal
+1087,Hinjewadi,Severe,Rain,6,11-02-2023 02:00,2956,drizzle rain,284.7,2,Saturday,2,Maharashtra
+1088,Banjara Hills,Moderate,Clear,2,11-02-2023 03:00,1868,thunderstorm with rain,279.1,4,Saturday,3,Telangana
+1089,Jubilee Hills,Severe,Rain,7,11-02-2023 04:00,2093,drizzle rain,295.6,2,Saturday,4,Telangana
+1090,Anna Nagar,Minor,Rain,9,11-02-2023 05:00,3018,thunderstorm with rain,304.3,4,Saturday,5,Tamil Nadu
+1091,T. Nagar,Moderate,Rain,8,11-02-2023 06:00,1660,thunderstorm with rain,279,4,Saturday,6,Tamil Nadu
+1092,Civil Lines,Minor,Rain,8,11-02-2023 07:00,3294,light rain,292.9,1,Saturday,7,Rajasthan
+1093,Kalyani Nagar,Moderate,Rain,9,11-02-2023 08:00,3244,heavy rain,276.9,3,Saturday,8,Maharashtra
+1094,Vasant Kunj,Severe,Fog,21,11-02-2023 09:00,3836,drizzle rain,289.8,2,Saturday,9,Delhi
+1095,Alwarpet,Minor,Fog,11,11-02-2023 10:00,2924,light rain,286.2,1,Saturday,10,Tamil Nadu
+1096,Koramangala,Minor,Rain,10,11-02-2023 11:00,913,drizzle rain,304,2,Saturday,11,Karnataka
+1097,Bandra,Minor,Rain,10,11-02-2023 12:00,3729,thunderstorm with rain,291.3,4,Saturday,12,Maharashtra
+1098,Indiranagar,Severe,Fog,10,11-02-2023 13:00,282,heavy rain,282.2,3,Saturday,13,Karnataka
+1099,Connaught Place,Moderate,Rain,21,11-02-2023 14:00,1368,drizzle rain,274,2,Saturday,14,Delhi
+1100,Salt Lake City,Severe,Clear,21,11-02-2023 15:00,3356,drizzle rain,275.3,2,Saturday,15,West Bengal
